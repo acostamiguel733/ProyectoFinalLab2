@@ -1,0 +1,4056 @@
+# depslib dependency file v1.0
+1621643278 source:c:\users\sole\documents\soleado\facu\utn\labo ii\modeloprimerparcial\laratube\sunrisetechnologies\funciones.cpp
+	<iostream>
+	<clocale>
+
+1621643278 source:c:\users\sole\documents\soleado\facu\utn\labo ii\modeloprimerparcial\laratube\sunrisetechnologies\main.cpp
+	<iostream>
+	<clocale>
+
+1621643278 source:c:\users\sole\documents\soleado\facu\utn\labo ii\modeloprimerparcial\laratube\sunrisetechnologies\src\avion.cpp
+	"Avion.h"
+
+1621643205 c:\users\sole\documents\soleado\facu\utn\labo ii\modeloprimerparcial\laratube\sunrisetechnologies\include\avion.h
+
+1621643278 source:c:\users\sole\documents\soleado\facu\utn\labo ii\modeloprimerparcial\laratube\sunrisetechnologies\src\destino.cpp
+	<iostream>
+	<clocale>
+	"Destino.h"
+
+1621643164 c:\users\sole\documents\soleado\facu\utn\labo ii\modeloprimerparcial\laratube\sunrisetechnologies\include\destino.h
+
+1621643278 source:c:\users\sole\documents\soleado\facu\utn\labo ii\modeloprimerparcial\laratube\sunrisetechnologies\src\fecha.cpp
+	<iostream>
+	<clocale>
+	"Fecha.h"
+
+1621643305 c:\users\sole\documents\soleado\facu\utn\labo ii\modeloprimerparcial\laratube\sunrisetechnologies\include\fecha.h
+
+1621643278 source:c:\users\sole\documents\soleado\facu\utn\labo ii\modeloprimerparcial\laratube\sunrisetechnologies\src\pasajero.cpp
+	<iostream>
+	<clocale>
+	"Pasajero.h"
+
+1621643072 c:\users\sole\documents\soleado\facu\utn\labo ii\modeloprimerparcial\laratube\sunrisetechnologies\include\pasajero.h
+
+1621643278 source:c:\users\sole\documents\soleado\facu\utn\labo ii\modeloprimerparcial\laratube\sunrisetechnologies\src\persona.cpp
+	<iostream>
+	<clocale>
+	"Persona.h"
+
+1621643009 c:\users\sole\documents\soleado\facu\utn\labo ii\modeloprimerparcial\laratube\sunrisetechnologies\include\persona.h
+
+1621643278 source:c:\users\sole\documents\soleado\facu\utn\labo ii\modeloprimerparcial\laratube\sunrisetechnologies\src\usuario.cpp
+	<iostream>
+	<clocale>
+	"Usuario.h"
+
+1621643040 c:\users\sole\documents\soleado\facu\utn\labo ii\modeloprimerparcial\laratube\sunrisetechnologies\include\usuario.h
+
+1621643278 source:c:\users\sole\documents\soleado\facu\utn\labo ii\modeloprimerparcial\laratube\sunrisetechnologies\src\vuelo.cpp
+	<iostream>
+	<clocale>
+	"Vuelo.h"
+
+1621643132 c:\users\sole\documents\soleado\facu\utn\labo ii\modeloprimerparcial\laratube\sunrisetechnologies\include\vuelo.h
+
+1621899568 source:c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies\funciones.cpp
+	<iostream>
+	<clocale>
+	"Usuario.h"
+	"Destino.h"
+	<cstring>
+
+1621894344 source:c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies\main.cpp
+	<iostream>
+	<clocale>
+	"Usuario.h"
+	"funciones.h"
+	"menu.h"
+
+1621807121 source:c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies\src\avion.cpp
+	"Avion.h"
+	<iostream>
+	<clocale>
+	<cstring>
+
+1621807121 c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies\include\avion.h
+
+1621899568 source:c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies\src\destino.cpp
+	<iostream>
+	<clocale>
+	"Destino.h"
+	<cstring>
+	"Persona.h"
+
+1621899568 c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies\include\destino.h
+
+1621807977 source:c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies\src\pasajero.cpp
+	<iostream>
+	<clocale>
+	"Pasajero.h"
+	"Persona.h"
+
+1621807963 c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies\include\pasajero.h
+	"Persona.h"
+
+1621891135 source:c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies\src\usuario.cpp
+	<iostream>
+	<cstring>
+	<clocale>
+	"Usuario.h"
+
+1621890432 c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies\include\usuario.h
+	"Persona.h"
+
+1621876981 source:c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies\src\vuelo.cpp
+	<iostream>
+	<cstring>
+	<clocale>
+	"Vuelo.h"
+
+1621877046 c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies\include\vuelo.h
+	"Fecha.h"
+
+1621801942 source:c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies\src\persona.cpp
+	<iostream>
+	<clocale>
+	"Persona.h"
+	"Fecha.h"
+	<cstring>
+
+1621801942 c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies\include\persona.h
+
+1621696704 c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies\include\fecha.h
+
+1621696743 source:c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies\src\fecha.cpp
+	<iostream>
+	<clocale>
+	"Fecha.h"
+
+1621811699 source:c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies\src\reserva.cpp
+	<iostream>
+	<clocale>
+	<cstring>
+	"Reserva.h"
+	"Fecha.h"
+
+1621811666 c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies\include\reserva.h
+	"Fecha.h"
+
+1621887001 source:c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies\src\asiento.cpp
+	<iostream>
+	<cstring>
+	"Asiento.h"
+
+1621889527 c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies\include\asiento.h
+	"Vuelo.h"
+
+1621898938 c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies\funciones.h
+
+1621898938 c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies\menu.h
+
+1621898938 source:c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies\menu.cpp
+	<iostream>
+	<cstring>
+	<clocale>
+	"Usuario.h"
+	"funciones.h"
+
+1621899752 source:c:\users\zerocool\desktop\sunrisetechnologies\funciones.cpp
+	<iostream>
+	<clocale>
+	"Usuario.h"
+	"Destino.h"
+	<cstring>
+
+1621908264 c:\users\zerocool\desktop\sunrisetechnologies\include\usuario.h
+	"Persona.h"
+
+1621801942 c:\users\zerocool\desktop\sunrisetechnologies\include\persona.h
+
+1621899568 c:\users\zerocool\desktop\sunrisetechnologies\include\destino.h
+
+1621898938 source:c:\users\zerocool\desktop\sunrisetechnologies\menu.cpp
+	<iostream>
+	<cstring>
+	<clocale>
+	"Usuario.h"
+	"funciones.h"
+
+1621898938 c:\users\zerocool\desktop\sunrisetechnologies\funciones.h
+
+1621887001 source:c:\users\zerocool\desktop\sunrisetechnologies\src\asiento.cpp
+	<iostream>
+	<cstring>
+	"Asiento.h"
+
+1621889527 c:\users\zerocool\desktop\sunrisetechnologies\include\asiento.h
+	"Vuelo.h"
+
+1621877046 c:\users\zerocool\desktop\sunrisetechnologies\include\vuelo.h
+	"Fecha.h"
+
+1621696704 c:\users\zerocool\desktop\sunrisetechnologies\include\fecha.h
+
+1621807121 source:c:\users\zerocool\desktop\sunrisetechnologies\src\avion.cpp
+	"Avion.h"
+	<iostream>
+	<clocale>
+	<cstring>
+
+1621807121 c:\users\zerocool\desktop\sunrisetechnologies\include\avion.h
+
+1621899568 source:c:\users\zerocool\desktop\sunrisetechnologies\src\destino.cpp
+	<iostream>
+	<clocale>
+	"Destino.h"
+	<cstring>
+	"Persona.h"
+
+1621696743 source:c:\users\zerocool\desktop\sunrisetechnologies\src\fecha.cpp
+	<iostream>
+	<clocale>
+	"Fecha.h"
+
+1621807977 source:c:\users\zerocool\desktop\sunrisetechnologies\src\pasajero.cpp
+	<iostream>
+	<clocale>
+	"Pasajero.h"
+	"Persona.h"
+
+1621807963 c:\users\zerocool\desktop\sunrisetechnologies\include\pasajero.h
+	"Persona.h"
+
+1621801942 source:c:\users\zerocool\desktop\sunrisetechnologies\src\persona.cpp
+	<iostream>
+	<clocale>
+	"Persona.h"
+	"Fecha.h"
+	<cstring>
+
+1621811699 source:c:\users\zerocool\desktop\sunrisetechnologies\src\reserva.cpp
+	<iostream>
+	<clocale>
+	<cstring>
+	"Reserva.h"
+	"Fecha.h"
+
+1621811666 c:\users\zerocool\desktop\sunrisetechnologies\include\reserva.h
+	"Fecha.h"
+
+1621908461 source:c:\users\zerocool\desktop\sunrisetechnologies\src\usuario.cpp
+	<iostream>
+	<cstring>
+	<clocale>
+	"Usuario.h"
+	"rlutil.h"
+
+1621876981 source:c:\users\zerocool\desktop\sunrisetechnologies\src\vuelo.cpp
+	<iostream>
+	<cstring>
+	<clocale>
+	"Vuelo.h"
+
+1621908307 source:c:\users\zerocool\desktop\sunrisetechnologies\main.cpp
+	<iostream>
+	<clocale>
+	"Usuario.h"
+	"funciones.h"
+	"menu.h"
+	"rlutil.h"
+
+1621898938 c:\users\zerocool\desktop\sunrisetechnologies\menu.h
+
+1621907945 c:\users\zerocool\desktop\sunrisetechnologies\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1571584339 c:\users\zerocool\desktop\sunrisetechnologies\include\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1622759666 source:c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies v2\sunrisetechnologies\src\asiento.cpp
+	<iostream>
+	<cstring>
+	"Asiento.h"
+
+1622759667 c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies v2\sunrisetechnologies\include\asiento.h
+	"Vuelo.h"
+
+1622834530 c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies v2\sunrisetechnologies\include\vuelo.h
+	"Fecha.h"
+	"Avion.h"
+	"Horario.h"
+	"Destino.h"
+
+1621696704 c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies v2\sunrisetechnologies\include\fecha.h
+
+1621963486 source:c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies v2\sunrisetechnologies\src\avion.cpp
+	"Avion.h"
+	<iostream>
+	<clocale>
+	<cstring>
+
+1622759667 c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies v2\sunrisetechnologies\include\avion.h
+
+1621899568 source:c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies v2\sunrisetechnologies\src\destino.cpp
+	<iostream>
+	<clocale>
+	"Destino.h"
+	<cstring>
+	"Persona.h"
+
+1622759667 c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies v2\sunrisetechnologies\include\destino.h
+
+1621801942 c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies v2\sunrisetechnologies\include\persona.h
+
+1621696743 source:c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies v2\sunrisetechnologies\src\fecha.cpp
+	<iostream>
+	<clocale>
+	"Fecha.h"
+
+1622776394 source:c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies v2\sunrisetechnologies\src\pasajero.cpp
+	<iostream>
+	<clocale>
+	"Pasajero.h"
+	"Persona.h"
+	"Fecha.h"
+
+1622776383 c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies v2\sunrisetechnologies\include\pasajero.h
+	"Persona.h"
+	"Fecha.h"
+
+1622765235 source:c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies v2\sunrisetechnologies\src\persona.cpp
+	<iostream>
+	<clocale>
+	"Persona.h"
+	"Fecha.h"
+	<cstring>
+
+1622776517 source:c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies v2\sunrisetechnologies\src\reserva.cpp
+	<iostream>
+	<clocale>
+	<cstring>
+	"Reserva.h"
+	"Fecha.h"
+
+1622776517 c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies v2\sunrisetechnologies\include\reserva.h
+	"Fecha.h"
+
+1621908461 source:c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies v2\sunrisetechnologies\src\usuario.cpp
+	<iostream>
+	<cstring>
+	<clocale>
+	"Usuario.h"
+	"rlutil.h"
+
+1621908264 c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies v2\sunrisetechnologies\include\usuario.h
+	"Persona.h"
+
+1571584339 c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies v2\sunrisetechnologies\include\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1622776713 source:c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies v2\sunrisetechnologies\src\vuelo.cpp
+	<iostream>
+	<cstring>
+	<clocale>
+	"Vuelo.h"
+	"Avion.h"
+
+1622765235 source:c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies v2\sunrisetechnologies\menu.cpp
+	<iostream>
+	<cstring>
+	<clocale>
+	"Usuario.h"
+	"funciones.h"
+	"rlutil.h"
+	"Pasajero.h"
+
+1622765235 c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies v2\sunrisetechnologies\funciones.h
+	"Pasajero.h"
+
+1621907945 c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies v2\sunrisetechnologies\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1622486355 source:c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies v2\sunrisetechnologies\main.cpp
+	<iostream>
+	<clocale>
+	"Usuario.h"
+	"funciones.h"
+	"menu.h"
+	"rlutil.h"
+
+1622776740 c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies v2\sunrisetechnologies\menu.h
+
+1621963171 source:c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies v2\sunrisetechnologies\funciones.cpp
+	"rlutil.h"
+	<iostream>
+	<clocale>
+	"Usuario.h"
+	"Destino.h"
+	"Vuelo.h"
+	<cstring>
+
+1621961250 source:c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies v2\sunrisetechnologies\src\horario.cpp
+	<iostream>
+	<clocale>
+	"Horario.h"
+
+1621961250 c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies v2\sunrisetechnologies\include\horario.h
+
+1622760784 source:c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies v2\sunrisetechnologies\src\auxiliarpasajero.cpp
+	<iostream>
+	<clocale>
+	"AuxiliarPasajero.h"
+
+1622760786 c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies v2\sunrisetechnologies\include\auxiliarpasajero.h
+
+1622486355 source:c:\users\user\desktop\utn flor\sunrisetechnologies\main.cpp
+	<iostream>
+	<clocale>
+	"Usuario.h"
+	"funciones.h"
+	"menu.h"
+	"rlutil.h"
+
+1622836110 c:\users\user\desktop\utn flor\sunrisetechnologies\include\usuario.h
+	"Persona.h"
+
+1621801942 c:\users\user\desktop\utn flor\sunrisetechnologies\include\persona.h
+
+1622765235 c:\users\user\desktop\utn flor\sunrisetechnologies\funciones.h
+	"Pasajero.h"
+
+1622837770 c:\users\user\desktop\utn flor\sunrisetechnologies\include\pasajero.h
+	"Persona.h"
+	"Fecha.h"
+
+1622836110 c:\users\user\desktop\utn flor\sunrisetechnologies\include\fecha.h
+
+1622776740 c:\users\user\desktop\utn flor\sunrisetechnologies\menu.h
+
+1621907945 c:\users\user\desktop\utn flor\sunrisetechnologies\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1622765235 source:c:\users\user\desktop\utn flor\sunrisetechnologies\menu.cpp
+	<iostream>
+	<cstring>
+	<clocale>
+	"Usuario.h"
+	"funciones.h"
+	"rlutil.h"
+	"Pasajero.h"
+
+1622839269 source:c:\users\user\desktop\utn flor\sunrisetechnologies\src\asiento.cpp
+	<iostream>
+	<cstring>
+	"Asiento.h"
+
+1622839269 c:\users\user\desktop\utn flor\sunrisetechnologies\include\asiento.h
+	"Vuelo.h"
+
+1622836110 c:\users\user\desktop\utn flor\sunrisetechnologies\include\vuelo.h
+	"Fecha.h"
+	"Avion.h"
+	"Horario.h"
+	"Destino.h"
+
+1622836110 c:\users\user\desktop\utn flor\sunrisetechnologies\include\avion.h
+
+1621961250 c:\users\user\desktop\utn flor\sunrisetechnologies\include\horario.h
+
+1622836110 c:\users\user\desktop\utn flor\sunrisetechnologies\include\destino.h
+
+1622838575 source:c:\users\user\desktop\utn flor\sunrisetechnologies\src\auxiliarpasajero.cpp
+	<iostream>
+	<clocale>
+	"AuxiliarPasajero.h"
+	<cstring>
+
+1622838554 c:\users\user\desktop\utn flor\sunrisetechnologies\include\auxiliarpasajero.h
+
+1622838328 source:c:\users\user\desktop\utn flor\sunrisetechnologies\src\avion.cpp
+	"Avion.h"
+	<iostream>
+	<clocale>
+	<cstring>
+
+1622838325 source:c:\users\user\desktop\utn flor\sunrisetechnologies\src\destino.cpp
+	<iostream>
+	<clocale>
+	"Destino.h"
+	<cstring>
+	"Persona.h"
+
+1621696743 source:c:\users\user\desktop\utn flor\sunrisetechnologies\src\fecha.cpp
+	<iostream>
+	<clocale>
+	"Fecha.h"
+
+1621961250 source:c:\users\user\desktop\utn flor\sunrisetechnologies\src\horario.cpp
+	<iostream>
+	<clocale>
+	"Horario.h"
+
+1622837770 source:c:\users\user\desktop\utn flor\sunrisetechnologies\src\pasajero.cpp
+	<iostream>
+	<clocale>
+	"Pasajero.h"
+	"Persona.h"
+	"Fecha.h"
+
+1622837398 source:c:\users\user\desktop\utn flor\sunrisetechnologies\src\persona.cpp
+	<iostream>
+	<clocale>
+	"Persona.h"
+	"Fecha.h"
+	<cstring>
+
+1622837265 source:c:\users\user\desktop\utn flor\sunrisetechnologies\src\reserva.cpp
+	<iostream>
+	<clocale>
+	<cstring>
+	"Reserva.h"
+	"Fecha.h"
+
+1622776517 c:\users\user\desktop\utn flor\sunrisetechnologies\include\reserva.h
+	"Fecha.h"
+
+1621908461 source:c:\users\user\desktop\utn flor\sunrisetechnologies\src\usuario.cpp
+	<iostream>
+	<cstring>
+	<clocale>
+	"Usuario.h"
+	"rlutil.h"
+
+1571584339 c:\users\user\desktop\utn flor\sunrisetechnologies\include\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1622840423 source:c:\users\user\desktop\utn flor\sunrisetechnologies\src\vuelo.cpp
+	<iostream>
+	<cstring>
+	<clocale>
+	"Vuelo.h"
+	"Avion.h"
+
+1622840182 source:c:\users\user\desktop\utn flor\sunrisetechnologies\funciones.cpp
+	"rlutil.h"
+	<iostream>
+	<clocale>
+	"Usuario.h"
+	"Destino.h"
+	"Vuelo.h"
+	"Reserva.h"
+	"Pasajero.h"
+	<cstring>
+
+1622927816 source:c:\users\zerocool\desktop\sunrisetechnologies_v5\sunrisetechnologies_v5\funciones.cpp
+	"rlutil.h"
+	<iostream>
+	<clocale>
+	"Usuario.h"
+	"Destino.h"
+	"Vuelo.h"
+	"Reserva.h"
+	"Pasajero.h"
+	<cstring>
+	<ctime>
+
+1621907945 c:\users\zerocool\desktop\sunrisetechnologies_v5\sunrisetechnologies_v5\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1622836110 c:\users\zerocool\desktop\sunrisetechnologies_v5\sunrisetechnologies_v5\include\usuario.h
+	"Persona.h"
+
+1621801942 c:\users\zerocool\desktop\sunrisetechnologies_v5\sunrisetechnologies_v5\include\persona.h
+
+1622836110 c:\users\zerocool\desktop\sunrisetechnologies_v5\sunrisetechnologies_v5\include\destino.h
+
+1622836110 c:\users\zerocool\desktop\sunrisetechnologies_v5\sunrisetechnologies_v5\include\vuelo.h
+	"Fecha.h"
+	"Avion.h"
+	"Horario.h"
+	"Destino.h"
+
+1622836110 c:\users\zerocool\desktop\sunrisetechnologies_v5\sunrisetechnologies_v5\include\fecha.h
+
+1622836110 c:\users\zerocool\desktop\sunrisetechnologies_v5\sunrisetechnologies_v5\include\avion.h
+
+1621961250 c:\users\zerocool\desktop\sunrisetechnologies_v5\sunrisetechnologies_v5\include\horario.h
+
+1622927082 c:\users\zerocool\desktop\sunrisetechnologies_v5\sunrisetechnologies_v5\include\reserva.h
+	"Fecha.h"
+
+1622837770 c:\users\zerocool\desktop\sunrisetechnologies_v5\sunrisetechnologies_v5\include\pasajero.h
+	"Persona.h"
+	"Fecha.h"
+
+1622920563 source:c:\users\zerocool\desktop\sunrisetechnologies_v5\sunrisetechnologies_v5\main.cpp
+	<iostream>
+	<clocale>
+	"Usuario.h"
+	"funciones.h"
+	"menu.h"
+	"rlutil.h"
+
+1622924647 c:\users\zerocool\desktop\sunrisetechnologies_v5\sunrisetechnologies_v5\funciones.h
+	"Pasajero.h"
+
+1622776740 c:\users\zerocool\desktop\sunrisetechnologies_v5\sunrisetechnologies_v5\menu.h
+
+1622927682 source:c:\users\zerocool\desktop\sunrisetechnologies_v5\sunrisetechnologies_v5\menu.cpp
+	<iostream>
+	<cstring>
+	<clocale>
+	"Usuario.h"
+	"funciones.h"
+	"rlutil.h"
+	"Pasajero.h"
+
+1622839269 source:c:\users\zerocool\desktop\sunrisetechnologies_v5\sunrisetechnologies_v5\src\asiento.cpp
+	<iostream>
+	<cstring>
+	"Asiento.h"
+
+1622839269 c:\users\zerocool\desktop\sunrisetechnologies_v5\sunrisetechnologies_v5\include\asiento.h
+	"Vuelo.h"
+
+1622838575 source:c:\users\zerocool\desktop\sunrisetechnologies_v5\sunrisetechnologies_v5\src\auxiliarpasajero.cpp
+	<iostream>
+	<clocale>
+	"AuxiliarPasajero.h"
+	<cstring>
+
+1622838554 c:\users\zerocool\desktop\sunrisetechnologies_v5\sunrisetechnologies_v5\include\auxiliarpasajero.h
+
+1622838328 source:c:\users\zerocool\desktop\sunrisetechnologies_v5\sunrisetechnologies_v5\src\avion.cpp
+	"Avion.h"
+	<iostream>
+	<clocale>
+	<cstring>
+
+1622923484 source:c:\users\zerocool\desktop\sunrisetechnologies_v5\sunrisetechnologies_v5\src\destino.cpp
+	<iostream>
+	<clocale>
+	"Destino.h"
+	<cstring>
+	"Persona.h"
+
+1621696743 source:c:\users\zerocool\desktop\sunrisetechnologies_v5\sunrisetechnologies_v5\src\fecha.cpp
+	<iostream>
+	<clocale>
+	"Fecha.h"
+
+1621961250 source:c:\users\zerocool\desktop\sunrisetechnologies_v5\sunrisetechnologies_v5\src\horario.cpp
+	<iostream>
+	<clocale>
+	"Horario.h"
+
+1622837770 source:c:\users\zerocool\desktop\sunrisetechnologies_v5\sunrisetechnologies_v5\src\pasajero.cpp
+	<iostream>
+	<clocale>
+	"Pasajero.h"
+	"Persona.h"
+	"Fecha.h"
+
+1622837398 source:c:\users\zerocool\desktop\sunrisetechnologies_v5\sunrisetechnologies_v5\src\persona.cpp
+	<iostream>
+	<clocale>
+	"Persona.h"
+	"Fecha.h"
+	<cstring>
+
+1622921721 source:c:\users\zerocool\desktop\sunrisetechnologies_v5\sunrisetechnologies_v5\src\reserva.cpp
+	<iostream>
+	<clocale>
+	<cstring>
+	"Reserva.h"
+	"Fecha.h"
+
+1622924731 source:c:\users\zerocool\desktop\sunrisetechnologies_v5\sunrisetechnologies_v5\src\usuario.cpp
+	<iostream>
+	<cstring>
+	<clocale>
+	"Usuario.h"
+	"rlutil.h"
+
+1571584339 c:\users\zerocool\desktop\sunrisetechnologies_v5\sunrisetechnologies_v5\include\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1622924209 source:c:\users\zerocool\desktop\sunrisetechnologies_v5\sunrisetechnologies_v5\src\vuelo.cpp
+	<iostream>
+	<cstring>
+	<clocale>
+	"Vuelo.h"
+	"Avion.h"
+
+1623699987 source:c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_v6\sunrisetechnologies_v6\sunrisetechnologies_v5\funciones.cpp
+	"rlutil.h"
+	<iostream>
+	<clocale>
+	"Usuario.h"
+	"Destino.h"
+	"Vuelo.h"
+	"Reserva.h"
+	"Pasajero.h"
+	"AuxiliarPasajero.h"
+	<cstring>
+	<ctime>
+
+1621907945 c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_v6\sunrisetechnologies_v6\sunrisetechnologies_v5\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1622836110 c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_v6\sunrisetechnologies_v6\sunrisetechnologies_v5\include\usuario.h
+	"Persona.h"
+
+1621801942 c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_v6\sunrisetechnologies_v6\sunrisetechnologies_v5\include\persona.h
+
+1622836110 c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_v6\sunrisetechnologies_v6\sunrisetechnologies_v5\include\destino.h
+
+1623697700 c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_v6\sunrisetechnologies_v6\sunrisetechnologies_v5\include\vuelo.h
+	"Fecha.h"
+	"Avion.h"
+	"Horario.h"
+	"Destino.h"
+
+1622836110 c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_v6\sunrisetechnologies_v6\sunrisetechnologies_v5\include\fecha.h
+
+1622836110 c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_v6\sunrisetechnologies_v6\sunrisetechnologies_v5\include\avion.h
+
+1621961250 c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_v6\sunrisetechnologies_v6\sunrisetechnologies_v5\include\horario.h
+
+1623367653 c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_v6\sunrisetechnologies_v6\sunrisetechnologies_v5\include\reserva.h
+	"Fecha.h"
+
+1622837770 c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_v6\sunrisetechnologies_v6\sunrisetechnologies_v5\include\pasajero.h
+	"Persona.h"
+	"Fecha.h"
+
+1623700427 source:c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_v6\sunrisetechnologies_v6\sunrisetechnologies_v5\main.cpp
+	<iostream>
+	<clocale>
+	"Usuario.h"
+	"funciones.h"
+	"menu.h"
+	"rlutil.h"
+	"Destino.h"
+
+1623699987 c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_v6\sunrisetechnologies_v6\sunrisetechnologies_v5\funciones.h
+	"Pasajero.h"
+
+1622776740 c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_v6\sunrisetechnologies_v6\sunrisetechnologies_v5\menu.h
+
+1623699987 source:c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_v6\sunrisetechnologies_v6\sunrisetechnologies_v5\menu.cpp
+	<iostream>
+	<cstring>
+	<clocale>
+	"Usuario.h"
+	"funciones.h"
+	"rlutil.h"
+	"Pasajero.h"
+
+1622839269 source:c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_v6\sunrisetechnologies_v6\sunrisetechnologies_v5\src\asiento.cpp
+	<iostream>
+	<cstring>
+	"Asiento.h"
+
+1622839269 c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_v6\sunrisetechnologies_v6\sunrisetechnologies_v5\include\asiento.h
+	"Vuelo.h"
+
+1623370216 source:c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_v6\sunrisetechnologies_v6\sunrisetechnologies_v5\src\auxiliarpasajero.cpp
+	<iostream>
+	<clocale>
+	"AuxiliarPasajero.h"
+	<cstring>
+
+1623369241 c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_v6\sunrisetechnologies_v6\sunrisetechnologies_v5\include\auxiliarpasajero.h
+
+1622838328 source:c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_v6\sunrisetechnologies_v6\sunrisetechnologies_v5\src\avion.cpp
+	"Avion.h"
+	<iostream>
+	<clocale>
+	<cstring>
+
+1622923484 source:c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_v6\sunrisetechnologies_v6\sunrisetechnologies_v5\src\destino.cpp
+	<iostream>
+	<clocale>
+	"Destino.h"
+	<cstring>
+	"Persona.h"
+
+1621696743 source:c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_v6\sunrisetechnologies_v6\sunrisetechnologies_v5\src\fecha.cpp
+	<iostream>
+	<clocale>
+	"Fecha.h"
+
+1621961250 source:c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_v6\sunrisetechnologies_v6\sunrisetechnologies_v5\src\horario.cpp
+	<iostream>
+	<clocale>
+	"Horario.h"
+
+1622837770 source:c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_v6\sunrisetechnologies_v6\sunrisetechnologies_v5\src\pasajero.cpp
+	<iostream>
+	<clocale>
+	"Pasajero.h"
+	"Persona.h"
+	"Fecha.h"
+
+1622837398 source:c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_v6\sunrisetechnologies_v6\sunrisetechnologies_v5\src\persona.cpp
+	<iostream>
+	<clocale>
+	"Persona.h"
+	"Fecha.h"
+	<cstring>
+
+1623367696 source:c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_v6\sunrisetechnologies_v6\sunrisetechnologies_v5\src\reserva.cpp
+	<iostream>
+	<clocale>
+	<cstring>
+	"Reserva.h"
+	"Fecha.h"
+
+1622924731 source:c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_v6\sunrisetechnologies_v6\sunrisetechnologies_v5\src\usuario.cpp
+	<iostream>
+	<cstring>
+	<clocale>
+	"Usuario.h"
+	"rlutil.h"
+
+1571584339 c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_v6\sunrisetechnologies_v6\sunrisetechnologies_v5\include\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1623697860 source:c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_v6\sunrisetechnologies_v6\sunrisetechnologies_v5\src\vuelo.cpp
+	<iostream>
+	<cstring>
+	<clocale>
+	"Vuelo.h"
+	"Avion.h"
+
+1623883300 source:c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_v7\funciones.cpp
+	"rlutil.h"
+	<iostream>
+	<clocale>
+	"Usuario.h"
+	"Destino.h"
+	"Vuelo.h"
+	"Reserva.h"
+	"Pasajero.h"
+	"AuxiliarPasajero.h"
+	<cstring>
+	<ctime>
+
+1621907945 c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_v7\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1622836110 c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_v7\include\usuario.h
+	"Persona.h"
+
+1621801942 c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_v7\include\persona.h
+
+1622836110 c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_v7\include\destino.h
+
+1623883300 c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_v7\include\vuelo.h
+	"Fecha.h"
+	"Avion.h"
+	"Horario.h"
+	"Destino.h"
+
+1622836110 c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_v7\include\fecha.h
+
+1622836110 c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_v7\include\avion.h
+
+1621961250 c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_v7\include\horario.h
+
+1623883300 c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_v7\include\reserva.h
+	"Fecha.h"
+
+1622837770 c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_v7\include\pasajero.h
+	"Persona.h"
+	"Fecha.h"
+
+1623369241 c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_v7\include\auxiliarpasajero.h
+
+1623883912 source:c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_v7\main.cpp
+	<iostream>
+	<clocale>
+	"Usuario.h"
+	"funciones.h"
+	"menu.h"
+	"rlutil.h"
+	"Destino.h"
+
+1623699987 c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_v7\funciones.h
+	"Pasajero.h"
+
+1622776740 c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_v7\menu.h
+
+1623883946 source:c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_v7\menu.cpp
+	<iostream>
+	<cstring>
+	<clocale>
+	"Usuario.h"
+	"funciones.h"
+	"rlutil.h"
+	"Pasajero.h"
+
+1622839269 source:c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_v7\src\asiento.cpp
+	<iostream>
+	<cstring>
+	"Asiento.h"
+
+1622839269 c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_v7\include\asiento.h
+	"Vuelo.h"
+
+1623370216 source:c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_v7\src\auxiliarpasajero.cpp
+	<iostream>
+	<clocale>
+	"AuxiliarPasajero.h"
+	<cstring>
+
+1622838328 source:c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_v7\src\avion.cpp
+	"Avion.h"
+	<iostream>
+	<clocale>
+	<cstring>
+
+1622923484 source:c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_v7\src\destino.cpp
+	<iostream>
+	<clocale>
+	"Destino.h"
+	<cstring>
+	"Persona.h"
+
+1621696743 source:c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_v7\src\fecha.cpp
+	<iostream>
+	<clocale>
+	"Fecha.h"
+
+1621961250 source:c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_v7\src\horario.cpp
+	<iostream>
+	<clocale>
+	"Horario.h"
+
+1622837770 source:c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_v7\src\pasajero.cpp
+	<iostream>
+	<clocale>
+	"Pasajero.h"
+	"Persona.h"
+	"Fecha.h"
+
+1622837398 source:c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_v7\src\persona.cpp
+	<iostream>
+	<clocale>
+	"Persona.h"
+	"Fecha.h"
+	<cstring>
+
+1623367696 source:c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_v7\src\reserva.cpp
+	<iostream>
+	<clocale>
+	<cstring>
+	"Reserva.h"
+	"Fecha.h"
+
+1622924731 source:c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_v7\src\usuario.cpp
+	<iostream>
+	<cstring>
+	<clocale>
+	"Usuario.h"
+	"rlutil.h"
+
+1571584339 c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_v7\include\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1623697860 source:c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_v7\src\vuelo.cpp
+	<iostream>
+	<cstring>
+	<clocale>
+	"Vuelo.h"
+	"Avion.h"
+
+1623974641 source:c:\users\zerocool\desktop\lab2\sunrisetechnologies_v8\sunrisetechnologies_v7\funciones.cpp
+	"rlutil.h"
+	<iostream>
+	<clocale>
+	"Usuario.h"
+	"Destino.h"
+	"Vuelo.h"
+	"Reserva.h"
+	"Pasajero.h"
+	"AuxiliarPasajero.h"
+	<cstring>
+	<ctime>
+
+1621907945 c:\users\zerocool\desktop\lab2\sunrisetechnologies_v8\sunrisetechnologies_v7\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1622836110 c:\users\zerocool\desktop\lab2\sunrisetechnologies_v8\sunrisetechnologies_v7\include\usuario.h
+	"Persona.h"
+
+1621801942 c:\users\zerocool\desktop\lab2\sunrisetechnologies_v8\sunrisetechnologies_v7\include\persona.h
+
+1622836110 c:\users\zerocool\desktop\lab2\sunrisetechnologies_v8\sunrisetechnologies_v7\include\destino.h
+
+1623883300 c:\users\zerocool\desktop\lab2\sunrisetechnologies_v8\sunrisetechnologies_v7\include\vuelo.h
+	"Fecha.h"
+	"Avion.h"
+	"Horario.h"
+	"Destino.h"
+
+1622836110 c:\users\zerocool\desktop\lab2\sunrisetechnologies_v8\sunrisetechnologies_v7\include\fecha.h
+
+1622836110 c:\users\zerocool\desktop\lab2\sunrisetechnologies_v8\sunrisetechnologies_v7\include\avion.h
+
+1621961250 c:\users\zerocool\desktop\lab2\sunrisetechnologies_v8\sunrisetechnologies_v7\include\horario.h
+
+1623883300 c:\users\zerocool\desktop\lab2\sunrisetechnologies_v8\sunrisetechnologies_v7\include\reserva.h
+	"Fecha.h"
+
+1623971688 c:\users\zerocool\desktop\lab2\sunrisetechnologies_v8\sunrisetechnologies_v7\include\pasajero.h
+	"Persona.h"
+	"Fecha.h"
+
+1623972479 c:\users\zerocool\desktop\lab2\sunrisetechnologies_v8\sunrisetechnologies_v7\include\auxiliarpasajero.h
+
+1623883912 source:c:\users\zerocool\desktop\lab2\sunrisetechnologies_v8\sunrisetechnologies_v7\main.cpp
+	<iostream>
+	<clocale>
+	"Usuario.h"
+	"funciones.h"
+	"menu.h"
+	"rlutil.h"
+	"Destino.h"
+
+1623974641 c:\users\zerocool\desktop\lab2\sunrisetechnologies_v8\sunrisetechnologies_v7\funciones.h
+	"Pasajero.h"
+
+1622776740 c:\users\zerocool\desktop\lab2\sunrisetechnologies_v8\sunrisetechnologies_v7\menu.h
+
+1623974696 source:c:\users\zerocool\desktop\lab2\sunrisetechnologies_v8\sunrisetechnologies_v7\menu.cpp
+	<iostream>
+	<cstring>
+	<clocale>
+	"Usuario.h"
+	"funciones.h"
+	"rlutil.h"
+	"Pasajero.h"
+
+1622839269 source:c:\users\zerocool\desktop\lab2\sunrisetechnologies_v8\sunrisetechnologies_v7\src\asiento.cpp
+	<iostream>
+	<cstring>
+	"Asiento.h"
+
+1623969990 c:\users\zerocool\desktop\lab2\sunrisetechnologies_v8\sunrisetechnologies_v7\include\asiento.h
+	"Vuelo.h"
+
+1623972479 source:c:\users\zerocool\desktop\lab2\sunrisetechnologies_v8\sunrisetechnologies_v7\src\auxiliarpasajero.cpp
+	<iostream>
+	<clocale>
+	"AuxiliarPasajero.h"
+	<cstring>
+
+1622838328 source:c:\users\zerocool\desktop\lab2\sunrisetechnologies_v8\sunrisetechnologies_v7\src\avion.cpp
+	"Avion.h"
+	<iostream>
+	<clocale>
+	<cstring>
+
+1622923484 source:c:\users\zerocool\desktop\lab2\sunrisetechnologies_v8\sunrisetechnologies_v7\src\destino.cpp
+	<iostream>
+	<clocale>
+	"Destino.h"
+	<cstring>
+	"Persona.h"
+
+1621696743 source:c:\users\zerocool\desktop\lab2\sunrisetechnologies_v8\sunrisetechnologies_v7\src\fecha.cpp
+	<iostream>
+	<clocale>
+	"Fecha.h"
+
+1621961250 source:c:\users\zerocool\desktop\lab2\sunrisetechnologies_v8\sunrisetechnologies_v7\src\horario.cpp
+	<iostream>
+	<clocale>
+	"Horario.h"
+
+1622837398 source:c:\users\zerocool\desktop\lab2\sunrisetechnologies_v8\sunrisetechnologies_v7\src\persona.cpp
+	<iostream>
+	<clocale>
+	"Persona.h"
+	"Fecha.h"
+	<cstring>
+
+1623973072 source:c:\users\zerocool\desktop\lab2\sunrisetechnologies_v8\sunrisetechnologies_v7\src\reserva.cpp
+	<iostream>
+	<clocale>
+	<cstring>
+	"Reserva.h"
+	"Fecha.h"
+
+1622924731 source:c:\users\zerocool\desktop\lab2\sunrisetechnologies_v8\sunrisetechnologies_v7\src\usuario.cpp
+	<iostream>
+	<cstring>
+	<clocale>
+	"Usuario.h"
+	"rlutil.h"
+
+1571584339 c:\users\zerocool\desktop\lab2\sunrisetechnologies_v8\sunrisetechnologies_v7\include\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1623697860 source:c:\users\zerocool\desktop\lab2\sunrisetechnologies_v8\sunrisetechnologies_v7\src\vuelo.cpp
+	<iostream>
+	<cstring>
+	<clocale>
+	"Vuelo.h"
+	"Avion.h"
+
+1623971723 source:c:\users\zerocool\desktop\lab2\sunrisetechnologies_v8\sunrisetechnologies_v7\src\pasajero.cpp
+	<iostream>
+	<clocale>
+	"Pasajero.h"
+	"Persona.h"
+	"Fecha.h"
+
+1624311546 source:c:\users\zerocool\desktop\lab2\sunrisetechnologies_v9\sunrisetechnologies_v9\funciones.cpp
+	"rlutil.h"
+	<iostream>
+	<clocale>
+	"Usuario.h"
+	"Destino.h"
+	"Vuelo.h"
+	"Reserva.h"
+	"Pasajero.h"
+	"AuxiliarPasajero.h"
+	<cstring>
+	<ctime>
+	"AuxiliarAvion.h"
+
+1621907945 c:\users\zerocool\desktop\lab2\sunrisetechnologies_v9\sunrisetechnologies_v9\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1622836110 c:\users\zerocool\desktop\lab2\sunrisetechnologies_v9\sunrisetechnologies_v9\include\usuario.h
+	"Persona.h"
+
+1621801942 c:\users\zerocool\desktop\lab2\sunrisetechnologies_v9\sunrisetechnologies_v9\include\persona.h
+
+1624052170 c:\users\zerocool\desktop\lab2\sunrisetechnologies_v9\sunrisetechnologies_v9\include\destino.h
+
+1623883300 c:\users\zerocool\desktop\lab2\sunrisetechnologies_v9\sunrisetechnologies_v9\include\vuelo.h
+	"Fecha.h"
+	"Avion.h"
+	"Horario.h"
+	"Destino.h"
+
+1622836110 c:\users\zerocool\desktop\lab2\sunrisetechnologies_v9\sunrisetechnologies_v9\include\fecha.h
+
+1624309628 c:\users\zerocool\desktop\lab2\sunrisetechnologies_v9\sunrisetechnologies_v9\include\avion.h
+
+1621961250 c:\users\zerocool\desktop\lab2\sunrisetechnologies_v9\sunrisetechnologies_v9\include\horario.h
+
+1623883300 c:\users\zerocool\desktop\lab2\sunrisetechnologies_v9\sunrisetechnologies_v9\include\reserva.h
+	"Fecha.h"
+
+1623971688 c:\users\zerocool\desktop\lab2\sunrisetechnologies_v9\sunrisetechnologies_v9\include\pasajero.h
+	"Persona.h"
+	"Fecha.h"
+
+1623972479 c:\users\zerocool\desktop\lab2\sunrisetechnologies_v9\sunrisetechnologies_v9\include\auxiliarpasajero.h
+
+1624311531 source:c:\users\zerocool\desktop\lab2\sunrisetechnologies_v9\sunrisetechnologies_v9\main.cpp
+	<iostream>
+	<clocale>
+	"Usuario.h"
+	"funciones.h"
+	"menu.h"
+	"rlutil.h"
+	"Destino.h"
+	"AuxiliarAvion.h"
+
+1624311531 c:\users\zerocool\desktop\lab2\sunrisetechnologies_v9\sunrisetechnologies_v9\funciones.h
+	"Pasajero.h"
+
+1622776740 c:\users\zerocool\desktop\lab2\sunrisetechnologies_v9\sunrisetechnologies_v9\menu.h
+
+1624311531 source:c:\users\zerocool\desktop\lab2\sunrisetechnologies_v9\sunrisetechnologies_v9\menu.cpp
+	<iostream>
+	<cstring>
+	<clocale>
+	"Usuario.h"
+	"funciones.h"
+	"rlutil.h"
+	"Pasajero.h"
+
+1622839269 source:c:\users\zerocool\desktop\lab2\sunrisetechnologies_v9\sunrisetechnologies_v9\src\asiento.cpp
+	<iostream>
+	<cstring>
+	"Asiento.h"
+
+1623969990 c:\users\zerocool\desktop\lab2\sunrisetechnologies_v9\sunrisetechnologies_v9\include\asiento.h
+	"Vuelo.h"
+
+1623972479 source:c:\users\zerocool\desktop\lab2\sunrisetechnologies_v9\sunrisetechnologies_v9\src\auxiliarpasajero.cpp
+	<iostream>
+	<clocale>
+	"AuxiliarPasajero.h"
+	<cstring>
+
+1622838328 source:c:\users\zerocool\desktop\lab2\sunrisetechnologies_v9\sunrisetechnologies_v9\src\avion.cpp
+	"Avion.h"
+	<iostream>
+	<clocale>
+	<cstring>
+
+1624052170 source:c:\users\zerocool\desktop\lab2\sunrisetechnologies_v9\sunrisetechnologies_v9\src\destino.cpp
+	<iostream>
+	<clocale>
+	"Destino.h"
+	<cstring>
+	"Persona.h"
+
+1621696743 source:c:\users\zerocool\desktop\lab2\sunrisetechnologies_v9\sunrisetechnologies_v9\src\fecha.cpp
+	<iostream>
+	<clocale>
+	"Fecha.h"
+
+1621961250 source:c:\users\zerocool\desktop\lab2\sunrisetechnologies_v9\sunrisetechnologies_v9\src\horario.cpp
+	<iostream>
+	<clocale>
+	"Horario.h"
+
+1624307934 source:c:\users\zerocool\desktop\lab2\sunrisetechnologies_v9\sunrisetechnologies_v9\src\pasajero.cpp
+	<iostream>
+	<clocale>
+	"Pasajero.h"
+	"Persona.h"
+	"Fecha.h"
+	"rlutil.h"
+
+1624308708 source:c:\users\zerocool\desktop\lab2\sunrisetechnologies_v9\sunrisetechnologies_v9\src\persona.cpp
+	<iostream>
+	<clocale>
+	"Persona.h"
+	"Fecha.h"
+	<cstring>
+	"rlutil.h"
+
+1624311531 source:c:\users\zerocool\desktop\lab2\sunrisetechnologies_v9\sunrisetechnologies_v9\src\reserva.cpp
+	<iostream>
+	<clocale>
+	<cstring>
+	"Reserva.h"
+	"Fecha.h"
+
+1622924731 source:c:\users\zerocool\desktop\lab2\sunrisetechnologies_v9\sunrisetechnologies_v9\src\usuario.cpp
+	<iostream>
+	<cstring>
+	<clocale>
+	"Usuario.h"
+	"rlutil.h"
+
+1571584339 c:\users\zerocool\desktop\lab2\sunrisetechnologies_v9\sunrisetechnologies_v9\include\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1623697860 source:c:\users\zerocool\desktop\lab2\sunrisetechnologies_v9\sunrisetechnologies_v9\src\vuelo.cpp
+	<iostream>
+	<cstring>
+	<clocale>
+	"Vuelo.h"
+	"Avion.h"
+
+1624310659 source:c:\users\zerocool\desktop\lab2\sunrisetechnologies_v9\sunrisetechnologies_v9\src\auxiliaravion.cpp
+	<iostream>
+	<cstring>
+	"AuxiliarAvion.h"
+
+1624310120 c:\users\zerocool\desktop\lab2\sunrisetechnologies_v9\sunrisetechnologies_v9\include\auxiliaravion.h
+
+1624311531 source:c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_v9\sunrisetechnologies_v9\sunrisetechnologies_v9\main.cpp
+	<iostream>
+	<clocale>
+	"Usuario.h"
+	"funciones.h"
+	"menu.h"
+	"rlutil.h"
+	"Destino.h"
+	"AuxiliarAvion.h"
+
+1622836110 c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_v9\sunrisetechnologies_v9\sunrisetechnologies_v9\include\usuario.h
+	"Persona.h"
+
+1621801942 c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_v9\sunrisetechnologies_v9\sunrisetechnologies_v9\include\persona.h
+
+1624315869 c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_v9\sunrisetechnologies_v9\sunrisetechnologies_v9\funciones.h
+	"Pasajero.h"
+
+1623971688 c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_v9\sunrisetechnologies_v9\sunrisetechnologies_v9\include\pasajero.h
+	"Persona.h"
+	"Fecha.h"
+
+1622836110 c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_v9\sunrisetechnologies_v9\sunrisetechnologies_v9\include\fecha.h
+
+1622776740 c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_v9\sunrisetechnologies_v9\sunrisetechnologies_v9\menu.h
+
+1621907945 c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_v9\sunrisetechnologies_v9\sunrisetechnologies_v9\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1624052170 c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_v9\sunrisetechnologies_v9\sunrisetechnologies_v9\include\destino.h
+
+1624314152 c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_v9\sunrisetechnologies_v9\sunrisetechnologies_v9\include\auxiliaravion.h
+
+1622839269 source:c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_v9\sunrisetechnologies_v9\sunrisetechnologies_v9\src\asiento.cpp
+	<iostream>
+	<cstring>
+	"Asiento.h"
+
+1623969990 c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_v9\sunrisetechnologies_v9\sunrisetechnologies_v9\include\asiento.h
+	"Vuelo.h"
+
+1623883300 c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_v9\sunrisetechnologies_v9\sunrisetechnologies_v9\include\vuelo.h
+	"Fecha.h"
+	"Avion.h"
+	"Horario.h"
+	"Destino.h"
+
+1624309628 c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_v9\sunrisetechnologies_v9\sunrisetechnologies_v9\include\avion.h
+
+1621961250 c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_v9\sunrisetechnologies_v9\sunrisetechnologies_v9\include\horario.h
+
+1623972479 source:c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_v9\sunrisetechnologies_v9\sunrisetechnologies_v9\src\auxiliarpasajero.cpp
+	<iostream>
+	<clocale>
+	"AuxiliarPasajero.h"
+	<cstring>
+
+1623972479 c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_v9\sunrisetechnologies_v9\sunrisetechnologies_v9\include\auxiliarpasajero.h
+
+1622838328 source:c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_v9\sunrisetechnologies_v9\sunrisetechnologies_v9\src\avion.cpp
+	"Avion.h"
+	<iostream>
+	<clocale>
+	<cstring>
+
+1624052170 source:c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_v9\sunrisetechnologies_v9\sunrisetechnologies_v9\src\destino.cpp
+	<iostream>
+	<clocale>
+	"Destino.h"
+	<cstring>
+	"Persona.h"
+
+1621696743 source:c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_v9\sunrisetechnologies_v9\sunrisetechnologies_v9\src\fecha.cpp
+	<iostream>
+	<clocale>
+	"Fecha.h"
+
+1624489875 source:c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_v9\sunrisetechnologies_v9\sunrisetechnologies_v9\src\horario.cpp
+	<iostream>
+	<clocale>
+	"Horario.h"
+
+1624307934 source:c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_v9\sunrisetechnologies_v9\sunrisetechnologies_v9\src\pasajero.cpp
+	<iostream>
+	<clocale>
+	"Pasajero.h"
+	"Persona.h"
+	"Fecha.h"
+	"rlutil.h"
+
+1571584339 c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_v9\sunrisetechnologies_v9\sunrisetechnologies_v9\include\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1624308708 source:c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_v9\sunrisetechnologies_v9\sunrisetechnologies_v9\src\persona.cpp
+	<iostream>
+	<clocale>
+	"Persona.h"
+	"Fecha.h"
+	<cstring>
+	"rlutil.h"
+
+1624489875 source:c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_v9\sunrisetechnologies_v9\sunrisetechnologies_v9\src\reserva.cpp
+	<iostream>
+	<clocale>
+	<cstring>
+	"Reserva.h"
+	"Fecha.h"
+
+1623883300 c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_v9\sunrisetechnologies_v9\sunrisetechnologies_v9\include\reserva.h
+	"Fecha.h"
+
+1622924731 source:c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_v9\sunrisetechnologies_v9\sunrisetechnologies_v9\src\usuario.cpp
+	<iostream>
+	<cstring>
+	<clocale>
+	"Usuario.h"
+	"rlutil.h"
+
+1623697860 source:c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_v9\sunrisetechnologies_v9\sunrisetechnologies_v9\src\vuelo.cpp
+	<iostream>
+	<cstring>
+	<clocale>
+	"Vuelo.h"
+	"Avion.h"
+
+1624314152 source:c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_v9\sunrisetechnologies_v9\sunrisetechnologies_v9\src\auxiliaravion.cpp
+	<iostream>
+	<cstring>
+	"AuxiliarAvion.h"
+
+1624401720 source:c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_v9\sunrisetechnologies_v9\sunrisetechnologies_v9\funciones.cpp
+	"rlutil.h"
+	<iostream>
+	<clocale>
+	"Usuario.h"
+	"Destino.h"
+	"Vuelo.h"
+	"Reserva.h"
+	"Pasajero.h"
+	"AuxiliarPasajero.h"
+	<cstring>
+	<ctime>
+	"AuxiliarAvion.h"
+
+1624315869 source:c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_v9\sunrisetechnologies_v9\sunrisetechnologies_v9\menu.cpp
+	<iostream>
+	<cstring>
+	<clocale>
+	"Usuario.h"
+	"funciones.h"
+	"rlutil.h"
+	"Pasajero.h"
+
+1625174055 source:c:\users\user\onedrive\escritorio\utn flor\laboratorio\proyecto\sunrisetechnologies_prototipo\main.cpp
+	<iostream>
+	<clocale>
+	"Usuario.h"
+	"funciones.h"
+	"menu.h"
+	"rlutil.h"
+	"Destino.h"
+	"AuxiliarAvion.h"
+	"Avion.h"
+	"Vuelo.h"
+
+1622836110 c:\users\user\onedrive\escritorio\utn flor\laboratorio\proyecto\sunrisetechnologies_prototipo\include\usuario.h
+	"Persona.h"
+
+1625099870 c:\users\user\onedrive\escritorio\utn flor\laboratorio\proyecto\sunrisetechnologies_prototipo\include\persona.h
+
+1625184673 c:\users\user\onedrive\escritorio\utn flor\laboratorio\proyecto\sunrisetechnologies_prototipo\funciones.h
+	"Pasajero.h"
+	"Destino.h"
+
+1623971688 c:\users\user\onedrive\escritorio\utn flor\laboratorio\proyecto\sunrisetechnologies_prototipo\include\pasajero.h
+	"Persona.h"
+	"Fecha.h"
+
+1622836110 c:\users\user\onedrive\escritorio\utn flor\laboratorio\proyecto\sunrisetechnologies_prototipo\include\fecha.h
+
+1624724851 c:\users\user\onedrive\escritorio\utn flor\laboratorio\proyecto\sunrisetechnologies_prototipo\menu.h
+
+1621907945 c:\users\user\onedrive\escritorio\utn flor\laboratorio\proyecto\sunrisetechnologies_prototipo\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1624052170 c:\users\user\onedrive\escritorio\utn flor\laboratorio\proyecto\sunrisetechnologies_prototipo\include\destino.h
+
+1625098544 c:\users\user\onedrive\escritorio\utn flor\laboratorio\proyecto\sunrisetechnologies_prototipo\include\auxiliaravion.h
+
+1624576085 source:c:\users\user\onedrive\escritorio\utn flor\laboratorio\proyecto\sunrisetechnologies_prototipo\src\asiento.cpp
+	<iostream>
+	<cstring>
+	"Asiento.h"
+
+1624576737 c:\users\user\onedrive\escritorio\utn flor\laboratorio\proyecto\sunrisetechnologies_prototipo\include\asiento.h
+	"Vuelo.h"
+
+1625181122 c:\users\user\onedrive\escritorio\utn flor\laboratorio\proyecto\sunrisetechnologies_prototipo\include\vuelo.h
+	"Fecha.h"
+	"Avion.h"
+	"Horario.h"
+	"Destino.h"
+
+1624580446 c:\users\user\onedrive\escritorio\utn flor\laboratorio\proyecto\sunrisetechnologies_prototipo\include\avion.h
+
+1621961250 c:\users\user\onedrive\escritorio\utn flor\laboratorio\proyecto\sunrisetechnologies_prototipo\include\horario.h
+
+1625161082 source:c:\users\user\onedrive\escritorio\utn flor\laboratorio\proyecto\sunrisetechnologies_prototipo\src\auxiliaravion.cpp
+	<iostream>
+	<cstring>
+	"AuxiliarAvion.h"
+
+1625161645 source:c:\users\user\onedrive\escritorio\utn flor\laboratorio\proyecto\sunrisetechnologies_prototipo\src\auxiliarpasajero.cpp
+	<iostream>
+	<clocale>
+	"AuxiliarPasajero.h"
+	<cstring>
+	"rlutil.h"
+
+1625098544 c:\users\user\onedrive\escritorio\utn flor\laboratorio\proyecto\sunrisetechnologies_prototipo\include\auxiliarpasajero.h
+
+1624580446 source:c:\users\user\onedrive\escritorio\utn flor\laboratorio\proyecto\sunrisetechnologies_prototipo\src\avion.cpp
+	"Avion.h"
+	<iostream>
+	<clocale>
+	<cstring>
+
+1625158000 source:c:\users\user\onedrive\escritorio\utn flor\laboratorio\proyecto\sunrisetechnologies_prototipo\src\destino.cpp
+	<iostream>
+	<clocale>
+	"Destino.h"
+	<cstring>
+	"Persona.h"
+
+1625110548 source:c:\users\user\onedrive\escritorio\utn flor\laboratorio\proyecto\sunrisetechnologies_prototipo\src\fecha.cpp
+	<iostream>
+	<clocale>
+	"Fecha.h"
+
+1625152687 source:c:\users\user\onedrive\escritorio\utn flor\laboratorio\proyecto\sunrisetechnologies_prototipo\src\horario.cpp
+	<iostream>
+	<clocale>
+	"Horario.h"
+
+1625110548 source:c:\users\user\onedrive\escritorio\utn flor\laboratorio\proyecto\sunrisetechnologies_prototipo\src\pasajero.cpp
+	<iostream>
+	<clocale>
+	"Pasajero.h"
+	"Persona.h"
+	"Fecha.h"
+	"rlutil.h"
+
+1571584339 c:\users\user\onedrive\escritorio\utn flor\laboratorio\proyecto\sunrisetechnologies_prototipo\include\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1625161082 source:c:\users\user\onedrive\escritorio\utn flor\laboratorio\proyecto\sunrisetechnologies_prototipo\src\persona.cpp
+	<iostream>
+	<clocale>
+	"Persona.h"
+	"Fecha.h"
+	<cstring>
+	"rlutil.h"
+
+1625110548 source:c:\users\user\onedrive\escritorio\utn flor\laboratorio\proyecto\sunrisetechnologies_prototipo\src\reserva.cpp
+	<iostream>
+	<clocale>
+	<cstring>
+	"Reserva.h"
+	"Fecha.h"
+
+1625101673 c:\users\user\onedrive\escritorio\utn flor\laboratorio\proyecto\sunrisetechnologies_prototipo\include\reserva.h
+	"Fecha.h"
+
+1622924731 source:c:\users\user\onedrive\escritorio\utn flor\laboratorio\proyecto\sunrisetechnologies_prototipo\src\usuario.cpp
+	<iostream>
+	<cstring>
+	<clocale>
+	"Usuario.h"
+	"rlutil.h"
+
+1625181122 source:c:\users\user\onedrive\escritorio\utn flor\laboratorio\proyecto\sunrisetechnologies_prototipo\src\vuelo.cpp
+	<iostream>
+	<cstring>
+	<clocale>
+	"Vuelo.h"
+	"Avion.h"
+
+1625184776 source:c:\users\user\onedrive\escritorio\utn flor\laboratorio\proyecto\sunrisetechnologies_prototipo\menu.cpp
+	<iostream>
+	<cstring>
+	<clocale>
+	"Usuario.h"
+	"funciones.h"
+	"rlutil.h"
+	"Pasajero.h"
+
+1625186170 source:c:\users\user\onedrive\escritorio\utn flor\laboratorio\proyecto\sunrisetechnologies_prototipo\funciones.cpp
+	"rlutil.h"
+	<iostream>
+	<clocale>
+	"Usuario.h"
+	"Destino.h"
+	"Vuelo.h"
+	"Reserva.h"
+	"Pasajero.h"
+	"AuxiliarPasajero.h"
+	<cstring>
+	<ctime>
+	"AuxiliarAvion.h"
+	"Asiento.h"
+	<stdlib.h>
+	<conio.h>
+
+1624723779 source:c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_prototipo3\sunrisetechnologies_prototipo\funciones.cpp
+	"rlutil.h"
+	<iostream>
+	<clocale>
+	"Usuario.h"
+	"Destino.h"
+	"Vuelo.h"
+	"Reserva.h"
+	"Pasajero.h"
+	"AuxiliarPasajero.h"
+	<cstring>
+	<ctime>
+	"AuxiliarAvion.h"
+	"Asiento.h"
+	<stdlib.h>
+
+1621907945 c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_prototipo3\sunrisetechnologies_prototipo\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1622836110 c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_prototipo3\sunrisetechnologies_prototipo\include\usuario.h
+	"Persona.h"
+
+1621801942 c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_prototipo3\sunrisetechnologies_prototipo\include\persona.h
+
+1624052170 c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_prototipo3\sunrisetechnologies_prototipo\include\destino.h
+
+1623883300 c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_prototipo3\sunrisetechnologies_prototipo\include\vuelo.h
+	"Fecha.h"
+	"Avion.h"
+	"Horario.h"
+	"Destino.h"
+
+1622836110 c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_prototipo3\sunrisetechnologies_prototipo\include\fecha.h
+
+1624580446 c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_prototipo3\sunrisetechnologies_prototipo\include\avion.h
+
+1621961250 c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_prototipo3\sunrisetechnologies_prototipo\include\horario.h
+
+1624545296 c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_prototipo3\sunrisetechnologies_prototipo\include\reserva.h
+	"Fecha.h"
+
+1623971688 c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_prototipo3\sunrisetechnologies_prototipo\include\pasajero.h
+	"Persona.h"
+	"Fecha.h"
+
+1624722053 c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_prototipo3\sunrisetechnologies_prototipo\include\auxiliarpasajero.h
+
+1624508322 c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_prototipo3\sunrisetechnologies_prototipo\include\auxiliaravion.h
+
+1624576737 c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_prototipo3\sunrisetechnologies_prototipo\include\asiento.h
+	"Vuelo.h"
+
+1624657642 source:c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_prototipo3\sunrisetechnologies_prototipo\menu.cpp
+	<iostream>
+	<cstring>
+	<clocale>
+	"Usuario.h"
+	"funciones.h"
+	"rlutil.h"
+	"Pasajero.h"
+
+1624723779 c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_prototipo3\sunrisetechnologies_prototipo\funciones.h
+	"Pasajero.h"
+
+1624576085 source:c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_prototipo3\sunrisetechnologies_prototipo\src\asiento.cpp
+	<iostream>
+	<cstring>
+	"Asiento.h"
+
+1624314152 source:c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_prototipo3\sunrisetechnologies_prototipo\src\auxiliaravion.cpp
+	<iostream>
+	<cstring>
+	"AuxiliarAvion.h"
+
+1624723187 source:c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_prototipo3\sunrisetechnologies_prototipo\src\auxiliarpasajero.cpp
+	<iostream>
+	<clocale>
+	"AuxiliarPasajero.h"
+	<cstring>
+	"rlutil.h"
+
+1624580446 source:c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_prototipo3\sunrisetechnologies_prototipo\src\avion.cpp
+	"Avion.h"
+	<iostream>
+	<clocale>
+	<cstring>
+
+1624052170 source:c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_prototipo3\sunrisetechnologies_prototipo\src\destino.cpp
+	<iostream>
+	<clocale>
+	"Destino.h"
+	<cstring>
+	"Persona.h"
+
+1621696743 source:c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_prototipo3\sunrisetechnologies_prototipo\src\fecha.cpp
+	<iostream>
+	<clocale>
+	"Fecha.h"
+
+1624489875 source:c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_prototipo3\sunrisetechnologies_prototipo\src\horario.cpp
+	<iostream>
+	<clocale>
+	"Horario.h"
+
+1624307934 source:c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_prototipo3\sunrisetechnologies_prototipo\src\pasajero.cpp
+	<iostream>
+	<clocale>
+	"Pasajero.h"
+	"Persona.h"
+	"Fecha.h"
+	"rlutil.h"
+
+1571584339 c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_prototipo3\sunrisetechnologies_prototipo\include\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1624308708 source:c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_prototipo3\sunrisetechnologies_prototipo\src\persona.cpp
+	<iostream>
+	<clocale>
+	"Persona.h"
+	"Fecha.h"
+	<cstring>
+	"rlutil.h"
+
+1624545296 source:c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_prototipo3\sunrisetechnologies_prototipo\src\reserva.cpp
+	<iostream>
+	<clocale>
+	<cstring>
+	"Reserva.h"
+	"Fecha.h"
+
+1622924731 source:c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_prototipo3\sunrisetechnologies_prototipo\src\usuario.cpp
+	<iostream>
+	<cstring>
+	<clocale>
+	"Usuario.h"
+	"rlutil.h"
+
+1623697860 source:c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_prototipo3\sunrisetechnologies_prototipo\src\vuelo.cpp
+	<iostream>
+	<cstring>
+	<clocale>
+	"Vuelo.h"
+	"Avion.h"
+
+1624722702 source:c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_prototipo3\sunrisetechnologies_prototipo\main.cpp
+	<iostream>
+	<clocale>
+	"Usuario.h"
+	"funciones.h"
+	"menu.h"
+	"rlutil.h"
+	"Destino.h"
+	"AuxiliarAvion.h"
+
+1624724851 c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_prototipo3\sunrisetechnologies_prototipo\menu.h
+
+1624735231 source:c:\users\zerocool\desktop\sunrisetechnologies_versionfinal01\sunrisetechnologies_prototipo3\sunrisetechnologies_prototipo\funciones.cpp
+	"rlutil.h"
+	<iostream>
+	<clocale>
+	"Usuario.h"
+	"Destino.h"
+	"Vuelo.h"
+	"Reserva.h"
+	"Pasajero.h"
+	"AuxiliarPasajero.h"
+	<cstring>
+	<ctime>
+	"AuxiliarAvion.h"
+	"Asiento.h"
+	<stdlib.h>
+
+1621907945 c:\users\zerocool\desktop\sunrisetechnologies_versionfinal01\sunrisetechnologies_prototipo3\sunrisetechnologies_prototipo\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1622836110 c:\users\zerocool\desktop\sunrisetechnologies_versionfinal01\sunrisetechnologies_prototipo3\sunrisetechnologies_prototipo\include\usuario.h
+	"Persona.h"
+
+1621801942 c:\users\zerocool\desktop\sunrisetechnologies_versionfinal01\sunrisetechnologies_prototipo3\sunrisetechnologies_prototipo\include\persona.h
+
+1624052170 c:\users\zerocool\desktop\sunrisetechnologies_versionfinal01\sunrisetechnologies_prototipo3\sunrisetechnologies_prototipo\include\destino.h
+
+1623883300 c:\users\zerocool\desktop\sunrisetechnologies_versionfinal01\sunrisetechnologies_prototipo3\sunrisetechnologies_prototipo\include\vuelo.h
+	"Fecha.h"
+	"Avion.h"
+	"Horario.h"
+	"Destino.h"
+
+1622836110 c:\users\zerocool\desktop\sunrisetechnologies_versionfinal01\sunrisetechnologies_prototipo3\sunrisetechnologies_prototipo\include\fecha.h
+
+1624580446 c:\users\zerocool\desktop\sunrisetechnologies_versionfinal01\sunrisetechnologies_prototipo3\sunrisetechnologies_prototipo\include\avion.h
+
+1621961250 c:\users\zerocool\desktop\sunrisetechnologies_versionfinal01\sunrisetechnologies_prototipo3\sunrisetechnologies_prototipo\include\horario.h
+
+1624545296 c:\users\zerocool\desktop\sunrisetechnologies_versionfinal01\sunrisetechnologies_prototipo3\sunrisetechnologies_prototipo\include\reserva.h
+	"Fecha.h"
+
+1623971688 c:\users\zerocool\desktop\sunrisetechnologies_versionfinal01\sunrisetechnologies_prototipo3\sunrisetechnologies_prototipo\include\pasajero.h
+	"Persona.h"
+	"Fecha.h"
+
+1624722053 c:\users\zerocool\desktop\sunrisetechnologies_versionfinal01\sunrisetechnologies_prototipo3\sunrisetechnologies_prototipo\include\auxiliarpasajero.h
+
+1624508322 c:\users\zerocool\desktop\sunrisetechnologies_versionfinal01\sunrisetechnologies_prototipo3\sunrisetechnologies_prototipo\include\auxiliaravion.h
+
+1624576737 c:\users\zerocool\desktop\sunrisetechnologies_versionfinal01\sunrisetechnologies_prototipo3\sunrisetechnologies_prototipo\include\asiento.h
+	"Vuelo.h"
+
+1624722702 source:c:\users\zerocool\desktop\sunrisetechnologies_versionfinal01\sunrisetechnologies_prototipo3\sunrisetechnologies_prototipo\main.cpp
+	<iostream>
+	<clocale>
+	"Usuario.h"
+	"funciones.h"
+	"menu.h"
+	"rlutil.h"
+	"Destino.h"
+	"AuxiliarAvion.h"
+
+1624735231 c:\users\zerocool\desktop\sunrisetechnologies_versionfinal01\sunrisetechnologies_prototipo3\sunrisetechnologies_prototipo\funciones.h
+	"Pasajero.h"
+
+1624724851 c:\users\zerocool\desktop\sunrisetechnologies_versionfinal01\sunrisetechnologies_prototipo3\sunrisetechnologies_prototipo\menu.h
+
+1624576085 source:c:\users\zerocool\desktop\sunrisetechnologies_versionfinal01\sunrisetechnologies_prototipo3\sunrisetechnologies_prototipo\src\asiento.cpp
+	<iostream>
+	<cstring>
+	"Asiento.h"
+
+1624314152 source:c:\users\zerocool\desktop\sunrisetechnologies_versionfinal01\sunrisetechnologies_prototipo3\sunrisetechnologies_prototipo\src\auxiliaravion.cpp
+	<iostream>
+	<cstring>
+	"AuxiliarAvion.h"
+
+1624723187 source:c:\users\zerocool\desktop\sunrisetechnologies_versionfinal01\sunrisetechnologies_prototipo3\sunrisetechnologies_prototipo\src\auxiliarpasajero.cpp
+	<iostream>
+	<clocale>
+	"AuxiliarPasajero.h"
+	<cstring>
+	"rlutil.h"
+
+1571584339 c:\users\zerocool\desktop\sunrisetechnologies_versionfinal01\sunrisetechnologies_prototipo3\sunrisetechnologies_prototipo\include\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1624580446 source:c:\users\zerocool\desktop\sunrisetechnologies_versionfinal01\sunrisetechnologies_prototipo3\sunrisetechnologies_prototipo\src\avion.cpp
+	"Avion.h"
+	<iostream>
+	<clocale>
+	<cstring>
+
+1624052170 source:c:\users\zerocool\desktop\sunrisetechnologies_versionfinal01\sunrisetechnologies_prototipo3\sunrisetechnologies_prototipo\src\destino.cpp
+	<iostream>
+	<clocale>
+	"Destino.h"
+	<cstring>
+	"Persona.h"
+
+1621696743 source:c:\users\zerocool\desktop\sunrisetechnologies_versionfinal01\sunrisetechnologies_prototipo3\sunrisetechnologies_prototipo\src\fecha.cpp
+	<iostream>
+	<clocale>
+	"Fecha.h"
+
+1624489875 source:c:\users\zerocool\desktop\sunrisetechnologies_versionfinal01\sunrisetechnologies_prototipo3\sunrisetechnologies_prototipo\src\horario.cpp
+	<iostream>
+	<clocale>
+	"Horario.h"
+
+1624307934 source:c:\users\zerocool\desktop\sunrisetechnologies_versionfinal01\sunrisetechnologies_prototipo3\sunrisetechnologies_prototipo\src\pasajero.cpp
+	<iostream>
+	<clocale>
+	"Pasajero.h"
+	"Persona.h"
+	"Fecha.h"
+	"rlutil.h"
+
+1624308708 source:c:\users\zerocool\desktop\sunrisetechnologies_versionfinal01\sunrisetechnologies_prototipo3\sunrisetechnologies_prototipo\src\persona.cpp
+	<iostream>
+	<clocale>
+	"Persona.h"
+	"Fecha.h"
+	<cstring>
+	"rlutil.h"
+
+1624545296 source:c:\users\zerocool\desktop\sunrisetechnologies_versionfinal01\sunrisetechnologies_prototipo3\sunrisetechnologies_prototipo\src\reserva.cpp
+	<iostream>
+	<clocale>
+	<cstring>
+	"Reserva.h"
+	"Fecha.h"
+
+1622924731 source:c:\users\zerocool\desktop\sunrisetechnologies_versionfinal01\sunrisetechnologies_prototipo3\sunrisetechnologies_prototipo\src\usuario.cpp
+	<iostream>
+	<cstring>
+	<clocale>
+	"Usuario.h"
+	"rlutil.h"
+
+1623697860 source:c:\users\zerocool\desktop\sunrisetechnologies_versionfinal01\sunrisetechnologies_prototipo3\sunrisetechnologies_prototipo\src\vuelo.cpp
+	<iostream>
+	<cstring>
+	<clocale>
+	"Vuelo.h"
+	"Avion.h"
+
+1624735243 source:c:\users\zerocool\desktop\sunrisetechnologies_versionfinal01\sunrisetechnologies_prototipo3\sunrisetechnologies_prototipo\menu.cpp
+	<iostream>
+	<cstring>
+	<clocale>
+	"Usuario.h"
+	"funciones.h"
+	"rlutil.h"
+	"Pasajero.h"
+
+1624984379 source:c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_finalv1.1\sunrisetechnologies_finalv1.0\sunrisetechnologies_prototipo\funciones.cpp
+	"rlutil.h"
+	<iostream>
+	<clocale>
+	"Usuario.h"
+	"Destino.h"
+	"Vuelo.h"
+	"Reserva.h"
+	"Pasajero.h"
+	"AuxiliarPasajero.h"
+	<cstring>
+	<ctime>
+	"AuxiliarAvion.h"
+	"Asiento.h"
+	<stdlib.h>
+	<conio.h>
+
+1621907945 c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_finalv1.1\sunrisetechnologies_finalv1.0\sunrisetechnologies_prototipo\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1622836110 c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_finalv1.1\sunrisetechnologies_finalv1.0\sunrisetechnologies_prototipo\include\usuario.h
+	"Persona.h"
+
+1621801942 c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_finalv1.1\sunrisetechnologies_finalv1.0\sunrisetechnologies_prototipo\include\persona.h
+
+1624052170 c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_finalv1.1\sunrisetechnologies_finalv1.0\sunrisetechnologies_prototipo\include\destino.h
+
+1623883300 c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_finalv1.1\sunrisetechnologies_finalv1.0\sunrisetechnologies_prototipo\include\vuelo.h
+	"Fecha.h"
+	"Avion.h"
+	"Horario.h"
+	"Destino.h"
+
+1622836110 c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_finalv1.1\sunrisetechnologies_finalv1.0\sunrisetechnologies_prototipo\include\fecha.h
+
+1624580446 c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_finalv1.1\sunrisetechnologies_finalv1.0\sunrisetechnologies_prototipo\include\avion.h
+
+1621961250 c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_finalv1.1\sunrisetechnologies_finalv1.0\sunrisetechnologies_prototipo\include\horario.h
+
+1624545296 c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_finalv1.1\sunrisetechnologies_finalv1.0\sunrisetechnologies_prototipo\include\reserva.h
+	"Fecha.h"
+
+1623971688 c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_finalv1.1\sunrisetechnologies_finalv1.0\sunrisetechnologies_prototipo\include\pasajero.h
+	"Persona.h"
+	"Fecha.h"
+
+1624722053 c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_finalv1.1\sunrisetechnologies_finalv1.0\sunrisetechnologies_prototipo\include\auxiliarpasajero.h
+
+1624508322 c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_finalv1.1\sunrisetechnologies_finalv1.0\sunrisetechnologies_prototipo\include\auxiliaravion.h
+
+1624576737 c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_finalv1.1\sunrisetechnologies_finalv1.0\sunrisetechnologies_prototipo\include\asiento.h
+	"Vuelo.h"
+
+1624925647 source:c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_finalv1.1\sunrisetechnologies_finalv1.0\sunrisetechnologies_prototipo\menu.cpp
+	<iostream>
+	<cstring>
+	<clocale>
+	"Usuario.h"
+	"funciones.h"
+	"rlutil.h"
+	"Pasajero.h"
+
+1624984140 c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_finalv1.1\sunrisetechnologies_finalv1.0\sunrisetechnologies_prototipo\funciones.h
+	"Pasajero.h"
+
+1624576085 source:c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_finalv1.1\sunrisetechnologies_finalv1.0\sunrisetechnologies_prototipo\src\asiento.cpp
+	<iostream>
+	<cstring>
+	"Asiento.h"
+
+1624314152 source:c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_finalv1.1\sunrisetechnologies_finalv1.0\sunrisetechnologies_prototipo\src\auxiliaravion.cpp
+	<iostream>
+	<cstring>
+	"AuxiliarAvion.h"
+
+1624723187 source:c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_finalv1.1\sunrisetechnologies_finalv1.0\sunrisetechnologies_prototipo\src\auxiliarpasajero.cpp
+	<iostream>
+	<clocale>
+	"AuxiliarPasajero.h"
+	<cstring>
+	"rlutil.h"
+
+1571584339 c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_finalv1.1\sunrisetechnologies_finalv1.0\sunrisetechnologies_prototipo\include\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1624580446 source:c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_finalv1.1\sunrisetechnologies_finalv1.0\sunrisetechnologies_prototipo\src\avion.cpp
+	"Avion.h"
+	<iostream>
+	<clocale>
+	<cstring>
+
+1624052170 source:c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_finalv1.1\sunrisetechnologies_finalv1.0\sunrisetechnologies_prototipo\src\destino.cpp
+	<iostream>
+	<clocale>
+	"Destino.h"
+	<cstring>
+	"Persona.h"
+
+1621696743 source:c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_finalv1.1\sunrisetechnologies_finalv1.0\sunrisetechnologies_prototipo\src\fecha.cpp
+	<iostream>
+	<clocale>
+	"Fecha.h"
+
+1624489875 source:c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_finalv1.1\sunrisetechnologies_finalv1.0\sunrisetechnologies_prototipo\src\horario.cpp
+	<iostream>
+	<clocale>
+	"Horario.h"
+
+1624307934 source:c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_finalv1.1\sunrisetechnologies_finalv1.0\sunrisetechnologies_prototipo\src\pasajero.cpp
+	<iostream>
+	<clocale>
+	"Pasajero.h"
+	"Persona.h"
+	"Fecha.h"
+	"rlutil.h"
+
+1624308708 source:c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_finalv1.1\sunrisetechnologies_finalv1.0\sunrisetechnologies_prototipo\src\persona.cpp
+	<iostream>
+	<clocale>
+	"Persona.h"
+	"Fecha.h"
+	<cstring>
+	"rlutil.h"
+
+1624545296 source:c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_finalv1.1\sunrisetechnologies_finalv1.0\sunrisetechnologies_prototipo\src\reserva.cpp
+	<iostream>
+	<clocale>
+	<cstring>
+	"Reserva.h"
+	"Fecha.h"
+
+1622924731 source:c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_finalv1.1\sunrisetechnologies_finalv1.0\sunrisetechnologies_prototipo\src\usuario.cpp
+	<iostream>
+	<cstring>
+	<clocale>
+	"Usuario.h"
+	"rlutil.h"
+
+1623697860 source:c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_finalv1.1\sunrisetechnologies_finalv1.0\sunrisetechnologies_prototipo\src\vuelo.cpp
+	<iostream>
+	<cstring>
+	<clocale>
+	"Vuelo.h"
+	"Avion.h"
+
+1624982964 source:c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_finalv1.1\sunrisetechnologies_finalv1.0\sunrisetechnologies_prototipo\main.cpp
+	<iostream>
+	<clocale>
+	"Usuario.h"
+	"funciones.h"
+	"menu.h"
+	"rlutil.h"
+	"Destino.h"
+	"AuxiliarAvion.h"
+
+1624724851 c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_finalv1.1\sunrisetechnologies_finalv1.0\sunrisetechnologies_prototipo\menu.h
+
+1625006792 source:c:\users\zerocool\desktop\sunrisetechnologies_finalv1.2\sunrisetechnologies_finalv1.1\sunrisetechnologies_finalv1.0\sunrisetechnologies_prototipo\funciones.cpp
+	"rlutil.h"
+	<iostream>
+	<clocale>
+	"Usuario.h"
+	"Destino.h"
+	"Vuelo.h"
+	"Reserva.h"
+	"Pasajero.h"
+	"AuxiliarPasajero.h"
+	<cstring>
+	<ctime>
+	"AuxiliarAvion.h"
+	"Asiento.h"
+	<stdlib.h>
+	<conio.h>
+
+1621907945 c:\users\zerocool\desktop\sunrisetechnologies_finalv1.2\sunrisetechnologies_finalv1.1\sunrisetechnologies_finalv1.0\sunrisetechnologies_prototipo\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1622836110 c:\users\zerocool\desktop\sunrisetechnologies_finalv1.2\sunrisetechnologies_finalv1.1\sunrisetechnologies_finalv1.0\sunrisetechnologies_prototipo\include\usuario.h
+	"Persona.h"
+
+1621801942 c:\users\zerocool\desktop\sunrisetechnologies_finalv1.2\sunrisetechnologies_finalv1.1\sunrisetechnologies_finalv1.0\sunrisetechnologies_prototipo\include\persona.h
+
+1624052170 c:\users\zerocool\desktop\sunrisetechnologies_finalv1.2\sunrisetechnologies_finalv1.1\sunrisetechnologies_finalv1.0\sunrisetechnologies_prototipo\include\destino.h
+
+1623883300 c:\users\zerocool\desktop\sunrisetechnologies_finalv1.2\sunrisetechnologies_finalv1.1\sunrisetechnologies_finalv1.0\sunrisetechnologies_prototipo\include\vuelo.h
+	"Fecha.h"
+	"Avion.h"
+	"Horario.h"
+	"Destino.h"
+
+1622836110 c:\users\zerocool\desktop\sunrisetechnologies_finalv1.2\sunrisetechnologies_finalv1.1\sunrisetechnologies_finalv1.0\sunrisetechnologies_prototipo\include\fecha.h
+
+1624580446 c:\users\zerocool\desktop\sunrisetechnologies_finalv1.2\sunrisetechnologies_finalv1.1\sunrisetechnologies_finalv1.0\sunrisetechnologies_prototipo\include\avion.h
+
+1621961250 c:\users\zerocool\desktop\sunrisetechnologies_finalv1.2\sunrisetechnologies_finalv1.1\sunrisetechnologies_finalv1.0\sunrisetechnologies_prototipo\include\horario.h
+
+1624545296 c:\users\zerocool\desktop\sunrisetechnologies_finalv1.2\sunrisetechnologies_finalv1.1\sunrisetechnologies_finalv1.0\sunrisetechnologies_prototipo\include\reserva.h
+	"Fecha.h"
+
+1623971688 c:\users\zerocool\desktop\sunrisetechnologies_finalv1.2\sunrisetechnologies_finalv1.1\sunrisetechnologies_finalv1.0\sunrisetechnologies_prototipo\include\pasajero.h
+	"Persona.h"
+	"Fecha.h"
+
+1624722053 c:\users\zerocool\desktop\sunrisetechnologies_finalv1.2\sunrisetechnologies_finalv1.1\sunrisetechnologies_finalv1.0\sunrisetechnologies_prototipo\include\auxiliarpasajero.h
+
+1624508322 c:\users\zerocool\desktop\sunrisetechnologies_finalv1.2\sunrisetechnologies_finalv1.1\sunrisetechnologies_finalv1.0\sunrisetechnologies_prototipo\include\auxiliaravion.h
+
+1624576737 c:\users\zerocool\desktop\sunrisetechnologies_finalv1.2\sunrisetechnologies_finalv1.1\sunrisetechnologies_finalv1.0\sunrisetechnologies_prototipo\include\asiento.h
+	"Vuelo.h"
+
+1624986897 source:c:\users\zerocool\desktop\sunrisetechnologies_finalv1.2\sunrisetechnologies_finalv1.1\sunrisetechnologies_finalv1.0\sunrisetechnologies_prototipo\main.cpp
+	<iostream>
+	<clocale>
+	"Usuario.h"
+	"funciones.h"
+	"menu.h"
+	"rlutil.h"
+	"Destino.h"
+	"AuxiliarAvion.h"
+
+1625006377 c:\users\zerocool\desktop\sunrisetechnologies_finalv1.2\sunrisetechnologies_finalv1.1\sunrisetechnologies_finalv1.0\sunrisetechnologies_prototipo\funciones.h
+	"Pasajero.h"
+
+1624724851 c:\users\zerocool\desktop\sunrisetechnologies_finalv1.2\sunrisetechnologies_finalv1.1\sunrisetechnologies_finalv1.0\sunrisetechnologies_prototipo\menu.h
+
+1625006377 source:c:\users\zerocool\desktop\sunrisetechnologies_finalv1.2\sunrisetechnologies_finalv1.1\sunrisetechnologies_finalv1.0\sunrisetechnologies_prototipo\menu.cpp
+	<iostream>
+	<cstring>
+	<clocale>
+	"Usuario.h"
+	"funciones.h"
+	"rlutil.h"
+	"Pasajero.h"
+
+1624576085 source:c:\users\zerocool\desktop\sunrisetechnologies_finalv1.2\sunrisetechnologies_finalv1.1\sunrisetechnologies_finalv1.0\sunrisetechnologies_prototipo\src\asiento.cpp
+	<iostream>
+	<cstring>
+	"Asiento.h"
+
+1624314152 source:c:\users\zerocool\desktop\sunrisetechnologies_finalv1.2\sunrisetechnologies_finalv1.1\sunrisetechnologies_finalv1.0\sunrisetechnologies_prototipo\src\auxiliaravion.cpp
+	<iostream>
+	<cstring>
+	"AuxiliarAvion.h"
+
+1624723187 source:c:\users\zerocool\desktop\sunrisetechnologies_finalv1.2\sunrisetechnologies_finalv1.1\sunrisetechnologies_finalv1.0\sunrisetechnologies_prototipo\src\auxiliarpasajero.cpp
+	<iostream>
+	<clocale>
+	"AuxiliarPasajero.h"
+	<cstring>
+	"rlutil.h"
+
+1571584339 c:\users\zerocool\desktop\sunrisetechnologies_finalv1.2\sunrisetechnologies_finalv1.1\sunrisetechnologies_finalv1.0\sunrisetechnologies_prototipo\include\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1624580446 source:c:\users\zerocool\desktop\sunrisetechnologies_finalv1.2\sunrisetechnologies_finalv1.1\sunrisetechnologies_finalv1.0\sunrisetechnologies_prototipo\src\avion.cpp
+	"Avion.h"
+	<iostream>
+	<clocale>
+	<cstring>
+
+1624052170 source:c:\users\zerocool\desktop\sunrisetechnologies_finalv1.2\sunrisetechnologies_finalv1.1\sunrisetechnologies_finalv1.0\sunrisetechnologies_prototipo\src\destino.cpp
+	<iostream>
+	<clocale>
+	"Destino.h"
+	<cstring>
+	"Persona.h"
+
+1621696743 source:c:\users\zerocool\desktop\sunrisetechnologies_finalv1.2\sunrisetechnologies_finalv1.1\sunrisetechnologies_finalv1.0\sunrisetechnologies_prototipo\src\fecha.cpp
+	<iostream>
+	<clocale>
+	"Fecha.h"
+
+1624489875 source:c:\users\zerocool\desktop\sunrisetechnologies_finalv1.2\sunrisetechnologies_finalv1.1\sunrisetechnologies_finalv1.0\sunrisetechnologies_prototipo\src\horario.cpp
+	<iostream>
+	<clocale>
+	"Horario.h"
+
+1624307934 source:c:\users\zerocool\desktop\sunrisetechnologies_finalv1.2\sunrisetechnologies_finalv1.1\sunrisetechnologies_finalv1.0\sunrisetechnologies_prototipo\src\pasajero.cpp
+	<iostream>
+	<clocale>
+	"Pasajero.h"
+	"Persona.h"
+	"Fecha.h"
+	"rlutil.h"
+
+1624308708 source:c:\users\zerocool\desktop\sunrisetechnologies_finalv1.2\sunrisetechnologies_finalv1.1\sunrisetechnologies_finalv1.0\sunrisetechnologies_prototipo\src\persona.cpp
+	<iostream>
+	<clocale>
+	"Persona.h"
+	"Fecha.h"
+	<cstring>
+	"rlutil.h"
+
+1624545296 source:c:\users\zerocool\desktop\sunrisetechnologies_finalv1.2\sunrisetechnologies_finalv1.1\sunrisetechnologies_finalv1.0\sunrisetechnologies_prototipo\src\reserva.cpp
+	<iostream>
+	<clocale>
+	<cstring>
+	"Reserva.h"
+	"Fecha.h"
+
+1622924731 source:c:\users\zerocool\desktop\sunrisetechnologies_finalv1.2\sunrisetechnologies_finalv1.1\sunrisetechnologies_finalv1.0\sunrisetechnologies_prototipo\src\usuario.cpp
+	<iostream>
+	<cstring>
+	<clocale>
+	"Usuario.h"
+	"rlutil.h"
+
+1623697860 source:c:\users\zerocool\desktop\sunrisetechnologies_finalv1.2\sunrisetechnologies_finalv1.1\sunrisetechnologies_finalv1.0\sunrisetechnologies_prototipo\src\vuelo.cpp
+	<iostream>
+	<cstring>
+	<clocale>
+	"Vuelo.h"
+	"Avion.h"
+
+1624986897 source:c:\users\user\onedrive\escritorio\sunrisetechnologies_finalv1.2\sunrisetechnologies_finalv1.1\sunrisetechnologies_finalv1.0\sunrisetechnologies_prototipo\main.cpp
+	<iostream>
+	<clocale>
+	"Usuario.h"
+	"funciones.h"
+	"menu.h"
+	"rlutil.h"
+	"Destino.h"
+	"AuxiliarAvion.h"
+
+1622836110 c:\users\user\onedrive\escritorio\sunrisetechnologies_finalv1.2\sunrisetechnologies_finalv1.1\sunrisetechnologies_finalv1.0\sunrisetechnologies_prototipo\include\usuario.h
+	"Persona.h"
+
+1621801942 c:\users\user\onedrive\escritorio\sunrisetechnologies_finalv1.2\sunrisetechnologies_finalv1.1\sunrisetechnologies_finalv1.0\sunrisetechnologies_prototipo\include\persona.h
+
+1625011725 c:\users\user\onedrive\escritorio\sunrisetechnologies_finalv1.2\sunrisetechnologies_finalv1.1\sunrisetechnologies_finalv1.0\sunrisetechnologies_prototipo\funciones.h
+	"Pasajero.h"
+	"Destino.h"
+
+1623971688 c:\users\user\onedrive\escritorio\sunrisetechnologies_finalv1.2\sunrisetechnologies_finalv1.1\sunrisetechnologies_finalv1.0\sunrisetechnologies_prototipo\include\pasajero.h
+	"Persona.h"
+	"Fecha.h"
+
+1622836110 c:\users\user\onedrive\escritorio\sunrisetechnologies_finalv1.2\sunrisetechnologies_finalv1.1\sunrisetechnologies_finalv1.0\sunrisetechnologies_prototipo\include\fecha.h
+
+1624724851 c:\users\user\onedrive\escritorio\sunrisetechnologies_finalv1.2\sunrisetechnologies_finalv1.1\sunrisetechnologies_finalv1.0\sunrisetechnologies_prototipo\menu.h
+
+1621907945 c:\users\user\onedrive\escritorio\sunrisetechnologies_finalv1.2\sunrisetechnologies_finalv1.1\sunrisetechnologies_finalv1.0\sunrisetechnologies_prototipo\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1624052170 c:\users\user\onedrive\escritorio\sunrisetechnologies_finalv1.2\sunrisetechnologies_finalv1.1\sunrisetechnologies_finalv1.0\sunrisetechnologies_prototipo\include\destino.h
+
+1624508322 c:\users\user\onedrive\escritorio\sunrisetechnologies_finalv1.2\sunrisetechnologies_finalv1.1\sunrisetechnologies_finalv1.0\sunrisetechnologies_prototipo\include\auxiliaravion.h
+
+1624576085 source:c:\users\user\onedrive\escritorio\sunrisetechnologies_finalv1.2\sunrisetechnologies_finalv1.1\sunrisetechnologies_finalv1.0\sunrisetechnologies_prototipo\src\asiento.cpp
+	<iostream>
+	<cstring>
+	"Asiento.h"
+
+1624576737 c:\users\user\onedrive\escritorio\sunrisetechnologies_finalv1.2\sunrisetechnologies_finalv1.1\sunrisetechnologies_finalv1.0\sunrisetechnologies_prototipo\include\asiento.h
+	"Vuelo.h"
+
+1623883300 c:\users\user\onedrive\escritorio\sunrisetechnologies_finalv1.2\sunrisetechnologies_finalv1.1\sunrisetechnologies_finalv1.0\sunrisetechnologies_prototipo\include\vuelo.h
+	"Fecha.h"
+	"Avion.h"
+	"Horario.h"
+	"Destino.h"
+
+1624580446 c:\users\user\onedrive\escritorio\sunrisetechnologies_finalv1.2\sunrisetechnologies_finalv1.1\sunrisetechnologies_finalv1.0\sunrisetechnologies_prototipo\include\avion.h
+
+1621961250 c:\users\user\onedrive\escritorio\sunrisetechnologies_finalv1.2\sunrisetechnologies_finalv1.1\sunrisetechnologies_finalv1.0\sunrisetechnologies_prototipo\include\horario.h
+
+1624314152 source:c:\users\user\onedrive\escritorio\sunrisetechnologies_finalv1.2\sunrisetechnologies_finalv1.1\sunrisetechnologies_finalv1.0\sunrisetechnologies_prototipo\src\auxiliaravion.cpp
+	<iostream>
+	<cstring>
+	"AuxiliarAvion.h"
+
+1624723187 source:c:\users\user\onedrive\escritorio\sunrisetechnologies_finalv1.2\sunrisetechnologies_finalv1.1\sunrisetechnologies_finalv1.0\sunrisetechnologies_prototipo\src\auxiliarpasajero.cpp
+	<iostream>
+	<clocale>
+	"AuxiliarPasajero.h"
+	<cstring>
+	"rlutil.h"
+
+1624722053 c:\users\user\onedrive\escritorio\sunrisetechnologies_finalv1.2\sunrisetechnologies_finalv1.1\sunrisetechnologies_finalv1.0\sunrisetechnologies_prototipo\include\auxiliarpasajero.h
+
+1571584339 c:\users\user\onedrive\escritorio\sunrisetechnologies_finalv1.2\sunrisetechnologies_finalv1.1\sunrisetechnologies_finalv1.0\sunrisetechnologies_prototipo\include\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1624580446 source:c:\users\user\onedrive\escritorio\sunrisetechnologies_finalv1.2\sunrisetechnologies_finalv1.1\sunrisetechnologies_finalv1.0\sunrisetechnologies_prototipo\src\avion.cpp
+	"Avion.h"
+	<iostream>
+	<clocale>
+	<cstring>
+
+1624052170 source:c:\users\user\onedrive\escritorio\sunrisetechnologies_finalv1.2\sunrisetechnologies_finalv1.1\sunrisetechnologies_finalv1.0\sunrisetechnologies_prototipo\src\destino.cpp
+	<iostream>
+	<clocale>
+	"Destino.h"
+	<cstring>
+	"Persona.h"
+
+1621696743 source:c:\users\user\onedrive\escritorio\sunrisetechnologies_finalv1.2\sunrisetechnologies_finalv1.1\sunrisetechnologies_finalv1.0\sunrisetechnologies_prototipo\src\fecha.cpp
+	<iostream>
+	<clocale>
+	"Fecha.h"
+
+1624489875 source:c:\users\user\onedrive\escritorio\sunrisetechnologies_finalv1.2\sunrisetechnologies_finalv1.1\sunrisetechnologies_finalv1.0\sunrisetechnologies_prototipo\src\horario.cpp
+	<iostream>
+	<clocale>
+	"Horario.h"
+
+1624307934 source:c:\users\user\onedrive\escritorio\sunrisetechnologies_finalv1.2\sunrisetechnologies_finalv1.1\sunrisetechnologies_finalv1.0\sunrisetechnologies_prototipo\src\pasajero.cpp
+	<iostream>
+	<clocale>
+	"Pasajero.h"
+	"Persona.h"
+	"Fecha.h"
+	"rlutil.h"
+
+1624308708 source:c:\users\user\onedrive\escritorio\sunrisetechnologies_finalv1.2\sunrisetechnologies_finalv1.1\sunrisetechnologies_finalv1.0\sunrisetechnologies_prototipo\src\persona.cpp
+	<iostream>
+	<clocale>
+	"Persona.h"
+	"Fecha.h"
+	<cstring>
+	"rlutil.h"
+
+1624545296 source:c:\users\user\onedrive\escritorio\sunrisetechnologies_finalv1.2\sunrisetechnologies_finalv1.1\sunrisetechnologies_finalv1.0\sunrisetechnologies_prototipo\src\reserva.cpp
+	<iostream>
+	<clocale>
+	<cstring>
+	"Reserva.h"
+	"Fecha.h"
+
+1624545296 c:\users\user\onedrive\escritorio\sunrisetechnologies_finalv1.2\sunrisetechnologies_finalv1.1\sunrisetechnologies_finalv1.0\sunrisetechnologies_prototipo\include\reserva.h
+	"Fecha.h"
+
+1622924731 source:c:\users\user\onedrive\escritorio\sunrisetechnologies_finalv1.2\sunrisetechnologies_finalv1.1\sunrisetechnologies_finalv1.0\sunrisetechnologies_prototipo\src\usuario.cpp
+	<iostream>
+	<cstring>
+	<clocale>
+	"Usuario.h"
+	"rlutil.h"
+
+1623697860 source:c:\users\user\onedrive\escritorio\sunrisetechnologies_finalv1.2\sunrisetechnologies_finalv1.1\sunrisetechnologies_finalv1.0\sunrisetechnologies_prototipo\src\vuelo.cpp
+	<iostream>
+	<cstring>
+	<clocale>
+	"Vuelo.h"
+	"Avion.h"
+
+1625008559 source:c:\users\user\onedrive\escritorio\sunrisetechnologies_finalv1.2\sunrisetechnologies_finalv1.1\sunrisetechnologies_finalv1.0\sunrisetechnologies_prototipo\menu.cpp
+	<iostream>
+	<cstring>
+	<clocale>
+	"Usuario.h"
+	"funciones.h"
+	"rlutil.h"
+	"Pasajero.h"
+
+1625012344 source:c:\users\user\onedrive\escritorio\sunrisetechnologies_finalv1.2\sunrisetechnologies_finalv1.1\sunrisetechnologies_finalv1.0\sunrisetechnologies_prototipo\funciones.cpp
+	"rlutil.h"
+	<iostream>
+	<clocale>
+	"Usuario.h"
+	"Destino.h"
+	"Vuelo.h"
+	"Reserva.h"
+	"Pasajero.h"
+	"AuxiliarPasajero.h"
+	<cstring>
+	<ctime>
+	"AuxiliarAvion.h"
+	"Asiento.h"
+	<stdlib.h>
+	<conio.h>
+
+1625164018 source:c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_finalv1.3\sunrisetechnologies_finalv1.2\sunrisetechnologies_finalv1.1\sunrisetechnologies_finalv1.0\sunrisetechnologies_prototipo\funciones.cpp
+	"rlutil.h"
+	<iostream>
+	<clocale>
+	"Usuario.h"
+	"Destino.h"
+	"Vuelo.h"
+	"Reserva.h"
+	"Pasajero.h"
+	"AuxiliarPasajero.h"
+	<cstring>
+	<ctime>
+	"AuxiliarAvion.h"
+	"Asiento.h"
+	<stdlib.h>
+	<conio.h>
+
+1621907945 c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_finalv1.3\sunrisetechnologies_finalv1.2\sunrisetechnologies_finalv1.1\sunrisetechnologies_finalv1.0\sunrisetechnologies_prototipo\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1622836110 c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_finalv1.3\sunrisetechnologies_finalv1.2\sunrisetechnologies_finalv1.1\sunrisetechnologies_finalv1.0\sunrisetechnologies_prototipo\include\usuario.h
+	"Persona.h"
+
+1625099870 c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_finalv1.3\sunrisetechnologies_finalv1.2\sunrisetechnologies_finalv1.1\sunrisetechnologies_finalv1.0\sunrisetechnologies_prototipo\include\persona.h
+
+1624052170 c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_finalv1.3\sunrisetechnologies_finalv1.2\sunrisetechnologies_finalv1.1\sunrisetechnologies_finalv1.0\sunrisetechnologies_prototipo\include\destino.h
+
+1623883300 c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_finalv1.3\sunrisetechnologies_finalv1.2\sunrisetechnologies_finalv1.1\sunrisetechnologies_finalv1.0\sunrisetechnologies_prototipo\include\vuelo.h
+	"Fecha.h"
+	"Avion.h"
+	"Horario.h"
+	"Destino.h"
+
+1622836110 c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_finalv1.3\sunrisetechnologies_finalv1.2\sunrisetechnologies_finalv1.1\sunrisetechnologies_finalv1.0\sunrisetechnologies_prototipo\include\fecha.h
+
+1624580446 c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_finalv1.3\sunrisetechnologies_finalv1.2\sunrisetechnologies_finalv1.1\sunrisetechnologies_finalv1.0\sunrisetechnologies_prototipo\include\avion.h
+
+1621961250 c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_finalv1.3\sunrisetechnologies_finalv1.2\sunrisetechnologies_finalv1.1\sunrisetechnologies_finalv1.0\sunrisetechnologies_prototipo\include\horario.h
+
+1625101673 c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_finalv1.3\sunrisetechnologies_finalv1.2\sunrisetechnologies_finalv1.1\sunrisetechnologies_finalv1.0\sunrisetechnologies_prototipo\include\reserva.h
+	"Fecha.h"
+
+1623971688 c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_finalv1.3\sunrisetechnologies_finalv1.2\sunrisetechnologies_finalv1.1\sunrisetechnologies_finalv1.0\sunrisetechnologies_prototipo\include\pasajero.h
+	"Persona.h"
+	"Fecha.h"
+
+1625098544 c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_finalv1.3\sunrisetechnologies_finalv1.2\sunrisetechnologies_finalv1.1\sunrisetechnologies_finalv1.0\sunrisetechnologies_prototipo\include\auxiliarpasajero.h
+
+1625098544 c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_finalv1.3\sunrisetechnologies_finalv1.2\sunrisetechnologies_finalv1.1\sunrisetechnologies_finalv1.0\sunrisetechnologies_prototipo\include\auxiliaravion.h
+
+1624576737 c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_finalv1.3\sunrisetechnologies_finalv1.2\sunrisetechnologies_finalv1.1\sunrisetechnologies_finalv1.0\sunrisetechnologies_prototipo\include\asiento.h
+	"Vuelo.h"
+
+1625162495 source:c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_finalv1.3\sunrisetechnologies_finalv1.2\sunrisetechnologies_finalv1.1\sunrisetechnologies_finalv1.0\sunrisetechnologies_prototipo\main.cpp
+	<iostream>
+	<clocale>
+	"Usuario.h"
+	"funciones.h"
+	"menu.h"
+	"rlutil.h"
+	"Destino.h"
+	"AuxiliarAvion.h"
+	"Avion.h"
+	"Vuelo.h"
+
+1625164062 c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_finalv1.3\sunrisetechnologies_finalv1.2\sunrisetechnologies_finalv1.1\sunrisetechnologies_finalv1.0\sunrisetechnologies_prototipo\funciones.h
+	"Pasajero.h"
+	"Destino.h"
+
+1624724851 c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_finalv1.3\sunrisetechnologies_finalv1.2\sunrisetechnologies_finalv1.1\sunrisetechnologies_finalv1.0\sunrisetechnologies_prototipo\menu.h
+
+1624576085 source:c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_finalv1.3\sunrisetechnologies_finalv1.2\sunrisetechnologies_finalv1.1\sunrisetechnologies_finalv1.0\sunrisetechnologies_prototipo\src\asiento.cpp
+	<iostream>
+	<cstring>
+	"Asiento.h"
+
+1625161082 source:c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_finalv1.3\sunrisetechnologies_finalv1.2\sunrisetechnologies_finalv1.1\sunrisetechnologies_finalv1.0\sunrisetechnologies_prototipo\src\auxiliaravion.cpp
+	<iostream>
+	<cstring>
+	"AuxiliarAvion.h"
+
+1625161645 source:c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_finalv1.3\sunrisetechnologies_finalv1.2\sunrisetechnologies_finalv1.1\sunrisetechnologies_finalv1.0\sunrisetechnologies_prototipo\src\auxiliarpasajero.cpp
+	<iostream>
+	<clocale>
+	"AuxiliarPasajero.h"
+	<cstring>
+	"rlutil.h"
+
+1571584339 c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_finalv1.3\sunrisetechnologies_finalv1.2\sunrisetechnologies_finalv1.1\sunrisetechnologies_finalv1.0\sunrisetechnologies_prototipo\include\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1624580446 source:c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_finalv1.3\sunrisetechnologies_finalv1.2\sunrisetechnologies_finalv1.1\sunrisetechnologies_finalv1.0\sunrisetechnologies_prototipo\src\avion.cpp
+	"Avion.h"
+	<iostream>
+	<clocale>
+	<cstring>
+
+1625158000 source:c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_finalv1.3\sunrisetechnologies_finalv1.2\sunrisetechnologies_finalv1.1\sunrisetechnologies_finalv1.0\sunrisetechnologies_prototipo\src\destino.cpp
+	<iostream>
+	<clocale>
+	"Destino.h"
+	<cstring>
+	"Persona.h"
+
+1625110548 source:c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_finalv1.3\sunrisetechnologies_finalv1.2\sunrisetechnologies_finalv1.1\sunrisetechnologies_finalv1.0\sunrisetechnologies_prototipo\src\fecha.cpp
+	<iostream>
+	<clocale>
+	"Fecha.h"
+
+1625152687 source:c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_finalv1.3\sunrisetechnologies_finalv1.2\sunrisetechnologies_finalv1.1\sunrisetechnologies_finalv1.0\sunrisetechnologies_prototipo\src\horario.cpp
+	<iostream>
+	<clocale>
+	"Horario.h"
+
+1625110548 source:c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_finalv1.3\sunrisetechnologies_finalv1.2\sunrisetechnologies_finalv1.1\sunrisetechnologies_finalv1.0\sunrisetechnologies_prototipo\src\pasajero.cpp
+	<iostream>
+	<clocale>
+	"Pasajero.h"
+	"Persona.h"
+	"Fecha.h"
+	"rlutil.h"
+
+1625161082 source:c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_finalv1.3\sunrisetechnologies_finalv1.2\sunrisetechnologies_finalv1.1\sunrisetechnologies_finalv1.0\sunrisetechnologies_prototipo\src\persona.cpp
+	<iostream>
+	<clocale>
+	"Persona.h"
+	"Fecha.h"
+	<cstring>
+	"rlutil.h"
+
+1625110548 source:c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_finalv1.3\sunrisetechnologies_finalv1.2\sunrisetechnologies_finalv1.1\sunrisetechnologies_finalv1.0\sunrisetechnologies_prototipo\src\reserva.cpp
+	<iostream>
+	<clocale>
+	<cstring>
+	"Reserva.h"
+	"Fecha.h"
+
+1622924731 source:c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_finalv1.3\sunrisetechnologies_finalv1.2\sunrisetechnologies_finalv1.1\sunrisetechnologies_finalv1.0\sunrisetechnologies_prototipo\src\usuario.cpp
+	<iostream>
+	<cstring>
+	<clocale>
+	"Usuario.h"
+	"rlutil.h"
+
+1625152687 source:c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_finalv1.3\sunrisetechnologies_finalv1.2\sunrisetechnologies_finalv1.1\sunrisetechnologies_finalv1.0\sunrisetechnologies_prototipo\src\vuelo.cpp
+	<iostream>
+	<cstring>
+	<clocale>
+	"Vuelo.h"
+	"Avion.h"
+
+1625163423 source:c:\users\sole\documents\soleado\facu\utn\labo ii\sunrisetechnologies_finalv1.3\sunrisetechnologies_finalv1.2\sunrisetechnologies_finalv1.1\sunrisetechnologies_finalv1.0\sunrisetechnologies_prototipo\menu.cpp
+	<iostream>
+	<cstring>
+	<clocale>
+	"Usuario.h"
+	"funciones.h"
+	"rlutil.h"
+	"Pasajero.h"
+
+1625182986 source:c:\users\sole\documents\soleado\facu\utn\labo ii\tpfinal\sunrisetechnologies_prototipo_final\sunrisetechnologies_prototipo\funciones.cpp
+	"rlutil.h"
+	<iostream>
+	<clocale>
+	"Usuario.h"
+	"Destino.h"
+	"Vuelo.h"
+	"Reserva.h"
+	"Pasajero.h"
+	"AuxiliarPasajero.h"
+	<cstring>
+	<ctime>
+	"AuxiliarAvion.h"
+	"Asiento.h"
+	<stdlib.h>
+	<conio.h>
+
+1621907945 c:\users\sole\documents\soleado\facu\utn\labo ii\tpfinal\sunrisetechnologies_prototipo_final\sunrisetechnologies_prototipo\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1622836110 c:\users\sole\documents\soleado\facu\utn\labo ii\tpfinal\sunrisetechnologies_prototipo_final\sunrisetechnologies_prototipo\include\usuario.h
+	"Persona.h"
+
+1625099870 c:\users\sole\documents\soleado\facu\utn\labo ii\tpfinal\sunrisetechnologies_prototipo_final\sunrisetechnologies_prototipo\include\persona.h
+
+1624052170 c:\users\sole\documents\soleado\facu\utn\labo ii\tpfinal\sunrisetechnologies_prototipo_final\sunrisetechnologies_prototipo\include\destino.h
+
+1625181122 c:\users\sole\documents\soleado\facu\utn\labo ii\tpfinal\sunrisetechnologies_prototipo_final\sunrisetechnologies_prototipo\include\vuelo.h
+	"Fecha.h"
+	"Avion.h"
+	"Horario.h"
+	"Destino.h"
+
+1622836110 c:\users\sole\documents\soleado\facu\utn\labo ii\tpfinal\sunrisetechnologies_prototipo_final\sunrisetechnologies_prototipo\include\fecha.h
+
+1624580446 c:\users\sole\documents\soleado\facu\utn\labo ii\tpfinal\sunrisetechnologies_prototipo_final\sunrisetechnologies_prototipo\include\avion.h
+
+1621961250 c:\users\sole\documents\soleado\facu\utn\labo ii\tpfinal\sunrisetechnologies_prototipo_final\sunrisetechnologies_prototipo\include\horario.h
+
+1625101673 c:\users\sole\documents\soleado\facu\utn\labo ii\tpfinal\sunrisetechnologies_prototipo_final\sunrisetechnologies_prototipo\include\reserva.h
+	"Fecha.h"
+
+1623971688 c:\users\sole\documents\soleado\facu\utn\labo ii\tpfinal\sunrisetechnologies_prototipo_final\sunrisetechnologies_prototipo\include\pasajero.h
+	"Persona.h"
+	"Fecha.h"
+
+1625098544 c:\users\sole\documents\soleado\facu\utn\labo ii\tpfinal\sunrisetechnologies_prototipo_final\sunrisetechnologies_prototipo\include\auxiliarpasajero.h
+
+1625098544 c:\users\sole\documents\soleado\facu\utn\labo ii\tpfinal\sunrisetechnologies_prototipo_final\sunrisetechnologies_prototipo\include\auxiliaravion.h
+
+1624576737 c:\users\sole\documents\soleado\facu\utn\labo ii\tpfinal\sunrisetechnologies_prototipo_final\sunrisetechnologies_prototipo\include\asiento.h
+	"Vuelo.h"
+
+1625181233 source:c:\users\sole\documents\soleado\facu\utn\labo ii\tpfinal\sunrisetechnologies_prototipo_final\sunrisetechnologies_prototipo\menu.cpp
+	<iostream>
+	<cstring>
+	<clocale>
+	"Usuario.h"
+	"funciones.h"
+	"rlutil.h"
+	"Pasajero.h"
+
+1625182008 c:\users\sole\documents\soleado\facu\utn\labo ii\tpfinal\sunrisetechnologies_prototipo_final\sunrisetechnologies_prototipo\funciones.h
+	"Pasajero.h"
+	"Destino.h"
+
+1624576085 source:c:\users\sole\documents\soleado\facu\utn\labo ii\tpfinal\sunrisetechnologies_prototipo_final\sunrisetechnologies_prototipo\src\asiento.cpp
+	<iostream>
+	<cstring>
+	"Asiento.h"
+
+1625161082 source:c:\users\sole\documents\soleado\facu\utn\labo ii\tpfinal\sunrisetechnologies_prototipo_final\sunrisetechnologies_prototipo\src\auxiliaravion.cpp
+	<iostream>
+	<cstring>
+	"AuxiliarAvion.h"
+
+1625161645 source:c:\users\sole\documents\soleado\facu\utn\labo ii\tpfinal\sunrisetechnologies_prototipo_final\sunrisetechnologies_prototipo\src\auxiliarpasajero.cpp
+	<iostream>
+	<clocale>
+	"AuxiliarPasajero.h"
+	<cstring>
+	"rlutil.h"
+
+1571584339 c:\users\sole\documents\soleado\facu\utn\labo ii\tpfinal\sunrisetechnologies_prototipo_final\sunrisetechnologies_prototipo\include\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1624580446 source:c:\users\sole\documents\soleado\facu\utn\labo ii\tpfinal\sunrisetechnologies_prototipo_final\sunrisetechnologies_prototipo\src\avion.cpp
+	"Avion.h"
+	<iostream>
+	<clocale>
+	<cstring>
+
+1625158000 source:c:\users\sole\documents\soleado\facu\utn\labo ii\tpfinal\sunrisetechnologies_prototipo_final\sunrisetechnologies_prototipo\src\destino.cpp
+	<iostream>
+	<clocale>
+	"Destino.h"
+	<cstring>
+	"Persona.h"
+
+1625110548 source:c:\users\sole\documents\soleado\facu\utn\labo ii\tpfinal\sunrisetechnologies_prototipo_final\sunrisetechnologies_prototipo\src\fecha.cpp
+	<iostream>
+	<clocale>
+	"Fecha.h"
+
+1625152687 source:c:\users\sole\documents\soleado\facu\utn\labo ii\tpfinal\sunrisetechnologies_prototipo_final\sunrisetechnologies_prototipo\src\horario.cpp
+	<iostream>
+	<clocale>
+	"Horario.h"
+
+1625110548 source:c:\users\sole\documents\soleado\facu\utn\labo ii\tpfinal\sunrisetechnologies_prototipo_final\sunrisetechnologies_prototipo\src\pasajero.cpp
+	<iostream>
+	<clocale>
+	"Pasajero.h"
+	"Persona.h"
+	"Fecha.h"
+	"rlutil.h"
+
+1625161082 source:c:\users\sole\documents\soleado\facu\utn\labo ii\tpfinal\sunrisetechnologies_prototipo_final\sunrisetechnologies_prototipo\src\persona.cpp
+	<iostream>
+	<clocale>
+	"Persona.h"
+	"Fecha.h"
+	<cstring>
+	"rlutil.h"
+
+1625110548 source:c:\users\sole\documents\soleado\facu\utn\labo ii\tpfinal\sunrisetechnologies_prototipo_final\sunrisetechnologies_prototipo\src\reserva.cpp
+	<iostream>
+	<clocale>
+	<cstring>
+	"Reserva.h"
+	"Fecha.h"
+
+1622924731 source:c:\users\sole\documents\soleado\facu\utn\labo ii\tpfinal\sunrisetechnologies_prototipo_final\sunrisetechnologies_prototipo\src\usuario.cpp
+	<iostream>
+	<cstring>
+	<clocale>
+	"Usuario.h"
+	"rlutil.h"
+
+1625181122 source:c:\users\sole\documents\soleado\facu\utn\labo ii\tpfinal\sunrisetechnologies_prototipo_final\sunrisetechnologies_prototipo\src\vuelo.cpp
+	<iostream>
+	<cstring>
+	<clocale>
+	"Vuelo.h"
+	"Avion.h"
+
+1625174055 source:c:\users\sole\documents\soleado\facu\utn\labo ii\tpfinal\sunrisetechnologies_prototipo_final\sunrisetechnologies_prototipo\main.cpp
+	<iostream>
+	<clocale>
+	"Usuario.h"
+	"funciones.h"
+	"menu.h"
+	"rlutil.h"
+	"Destino.h"
+	"AuxiliarAvion.h"
+	"Avion.h"
+	"Vuelo.h"
+
+1624724851 c:\users\sole\documents\soleado\facu\utn\labo ii\tpfinal\sunrisetechnologies_prototipo_final\sunrisetechnologies_prototipo\menu.h
+
+1625325024 source:c:\users\zerocool\desktop\sunrisetechnologies_prototipo\sunrisetechnologies_prototipo\funciones.cpp
+	"rlutil.h"
+	<iostream>
+	<clocale>
+	"Usuario.h"
+	"Destino.h"
+	"Vuelo.h"
+	"Reserva.h"
+	"Pasajero.h"
+	"AuxiliarPasajero.h"
+	<cstring>
+	<ctime>
+	"AuxiliarAvion.h"
+	"Asiento.h"
+	<stdlib.h>
+	<conio.h>
+
+1621907945 c:\users\zerocool\desktop\sunrisetechnologies_prototipo\sunrisetechnologies_prototipo\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1622836110 c:\users\zerocool\desktop\sunrisetechnologies_prototipo\sunrisetechnologies_prototipo\include\usuario.h
+	"Persona.h"
+
+1625099870 c:\users\zerocool\desktop\sunrisetechnologies_prototipo\sunrisetechnologies_prototipo\include\persona.h
+
+1624052170 c:\users\zerocool\desktop\sunrisetechnologies_prototipo\sunrisetechnologies_prototipo\include\destino.h
+
+1625181122 c:\users\zerocool\desktop\sunrisetechnologies_prototipo\sunrisetechnologies_prototipo\include\vuelo.h
+	"Fecha.h"
+	"Avion.h"
+	"Horario.h"
+	"Destino.h"
+
+1622836110 c:\users\zerocool\desktop\sunrisetechnologies_prototipo\sunrisetechnologies_prototipo\include\fecha.h
+
+1624580446 c:\users\zerocool\desktop\sunrisetechnologies_prototipo\sunrisetechnologies_prototipo\include\avion.h
+
+1621961250 c:\users\zerocool\desktop\sunrisetechnologies_prototipo\sunrisetechnologies_prototipo\include\horario.h
+
+1625101673 c:\users\zerocool\desktop\sunrisetechnologies_prototipo\sunrisetechnologies_prototipo\include\reserva.h
+	"Fecha.h"
+
+1623971688 c:\users\zerocool\desktop\sunrisetechnologies_prototipo\sunrisetechnologies_prototipo\include\pasajero.h
+	"Persona.h"
+	"Fecha.h"
+
+1625098544 c:\users\zerocool\desktop\sunrisetechnologies_prototipo\sunrisetechnologies_prototipo\include\auxiliarpasajero.h
+
+1625098544 c:\users\zerocool\desktop\sunrisetechnologies_prototipo\sunrisetechnologies_prototipo\include\auxiliaravion.h
+
+1624576737 c:\users\zerocool\desktop\sunrisetechnologies_prototipo\sunrisetechnologies_prototipo\include\asiento.h
+	"Vuelo.h"
+
+1625174055 source:c:\users\zerocool\desktop\sunrisetechnologies_prototipo\sunrisetechnologies_prototipo\main.cpp
+	<iostream>
+	<clocale>
+	"Usuario.h"
+	"funciones.h"
+	"menu.h"
+	"rlutil.h"
+	"Destino.h"
+	"AuxiliarAvion.h"
+	"Avion.h"
+	"Vuelo.h"
+
+1625184673 c:\users\zerocool\desktop\sunrisetechnologies_prototipo\sunrisetechnologies_prototipo\funciones.h
+	"Pasajero.h"
+	"Destino.h"
+
+1624724851 c:\users\zerocool\desktop\sunrisetechnologies_prototipo\sunrisetechnologies_prototipo\menu.h
+
+1625323666 source:c:\users\zerocool\desktop\sunrisetechnologies_prototipo\sunrisetechnologies_prototipo\menu.cpp
+	<iostream>
+	<cstring>
+	<clocale>
+	"Usuario.h"
+	"funciones.h"
+	"rlutil.h"
+	"Pasajero.h"
+
+1624576085 source:c:\users\zerocool\desktop\sunrisetechnologies_prototipo\sunrisetechnologies_prototipo\src\asiento.cpp
+	<iostream>
+	<cstring>
+	"Asiento.h"
+
+1625161082 source:c:\users\zerocool\desktop\sunrisetechnologies_prototipo\sunrisetechnologies_prototipo\src\auxiliaravion.cpp
+	<iostream>
+	<cstring>
+	"AuxiliarAvion.h"
+
+1625161645 source:c:\users\zerocool\desktop\sunrisetechnologies_prototipo\sunrisetechnologies_prototipo\src\auxiliarpasajero.cpp
+	<iostream>
+	<clocale>
+	"AuxiliarPasajero.h"
+	<cstring>
+	"rlutil.h"
+
+1571584339 c:\users\zerocool\desktop\sunrisetechnologies_prototipo\sunrisetechnologies_prototipo\include\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1624580446 source:c:\users\zerocool\desktop\sunrisetechnologies_prototipo\sunrisetechnologies_prototipo\src\avion.cpp
+	"Avion.h"
+	<iostream>
+	<clocale>
+	<cstring>
+
+1625158000 source:c:\users\zerocool\desktop\sunrisetechnologies_prototipo\sunrisetechnologies_prototipo\src\destino.cpp
+	<iostream>
+	<clocale>
+	"Destino.h"
+	<cstring>
+	"Persona.h"
+
+1625110548 source:c:\users\zerocool\desktop\sunrisetechnologies_prototipo\sunrisetechnologies_prototipo\src\fecha.cpp
+	<iostream>
+	<clocale>
+	"Fecha.h"
+
+1625152687 source:c:\users\zerocool\desktop\sunrisetechnologies_prototipo\sunrisetechnologies_prototipo\src\horario.cpp
+	<iostream>
+	<clocale>
+	"Horario.h"
+
+1625110548 source:c:\users\zerocool\desktop\sunrisetechnologies_prototipo\sunrisetechnologies_prototipo\src\pasajero.cpp
+	<iostream>
+	<clocale>
+	"Pasajero.h"
+	"Persona.h"
+	"Fecha.h"
+	"rlutil.h"
+
+1625161082 source:c:\users\zerocool\desktop\sunrisetechnologies_prototipo\sunrisetechnologies_prototipo\src\persona.cpp
+	<iostream>
+	<clocale>
+	"Persona.h"
+	"Fecha.h"
+	<cstring>
+	"rlutil.h"
+
+1625110548 source:c:\users\zerocool\desktop\sunrisetechnologies_prototipo\sunrisetechnologies_prototipo\src\reserva.cpp
+	<iostream>
+	<clocale>
+	<cstring>
+	"Reserva.h"
+	"Fecha.h"
+
+1622924731 source:c:\users\zerocool\desktop\sunrisetechnologies_prototipo\sunrisetechnologies_prototipo\src\usuario.cpp
+	<iostream>
+	<cstring>
+	<clocale>
+	"Usuario.h"
+	"rlutil.h"
+
+1625181122 source:c:\users\zerocool\desktop\sunrisetechnologies_prototipo\sunrisetechnologies_prototipo\src\vuelo.cpp
+	<iostream>
+	<cstring>
+	<clocale>
+	"Vuelo.h"
+	"Avion.h"
+
+1625174055 source:c:\users\sole\documents\soleado\facu\utn\labo ii\tpfinal\sunrisetechnologies_final_v01\sunrisetechnologies_prototipo\sunrisetechnologies_prototipo\main.cpp
+	<iostream>
+	<clocale>
+	"Usuario.h"
+	"funciones.h"
+	"menu.h"
+	"rlutil.h"
+	"Destino.h"
+	"AuxiliarAvion.h"
+	"Avion.h"
+	"Vuelo.h"
+
+1622836110 c:\users\sole\documents\soleado\facu\utn\labo ii\tpfinal\sunrisetechnologies_final_v01\sunrisetechnologies_prototipo\sunrisetechnologies_prototipo\include\usuario.h
+	"Persona.h"
+
+1625099870 c:\users\sole\documents\soleado\facu\utn\labo ii\tpfinal\sunrisetechnologies_final_v01\sunrisetechnologies_prototipo\sunrisetechnologies_prototipo\include\persona.h
+
+1625669372 c:\users\sole\documents\soleado\facu\utn\labo ii\tpfinal\sunrisetechnologies_final_v01\sunrisetechnologies_prototipo\sunrisetechnologies_prototipo\funciones.h
+	"Pasajero.h"
+	"Destino.h"
+
+1623971688 c:\users\sole\documents\soleado\facu\utn\labo ii\tpfinal\sunrisetechnologies_final_v01\sunrisetechnologies_prototipo\sunrisetechnologies_prototipo\include\pasajero.h
+	"Persona.h"
+	"Fecha.h"
+
+1622836110 c:\users\sole\documents\soleado\facu\utn\labo ii\tpfinal\sunrisetechnologies_final_v01\sunrisetechnologies_prototipo\sunrisetechnologies_prototipo\include\fecha.h
+
+1624052170 c:\users\sole\documents\soleado\facu\utn\labo ii\tpfinal\sunrisetechnologies_final_v01\sunrisetechnologies_prototipo\sunrisetechnologies_prototipo\include\destino.h
+
+1624724851 c:\users\sole\documents\soleado\facu\utn\labo ii\tpfinal\sunrisetechnologies_final_v01\sunrisetechnologies_prototipo\sunrisetechnologies_prototipo\menu.h
+
+1621907945 c:\users\sole\documents\soleado\facu\utn\labo ii\tpfinal\sunrisetechnologies_final_v01\sunrisetechnologies_prototipo\sunrisetechnologies_prototipo\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1625098544 c:\users\sole\documents\soleado\facu\utn\labo ii\tpfinal\sunrisetechnologies_final_v01\sunrisetechnologies_prototipo\sunrisetechnologies_prototipo\include\auxiliaravion.h
+
+1624580446 c:\users\sole\documents\soleado\facu\utn\labo ii\tpfinal\sunrisetechnologies_final_v01\sunrisetechnologies_prototipo\sunrisetechnologies_prototipo\include\avion.h
+
+1625181122 c:\users\sole\documents\soleado\facu\utn\labo ii\tpfinal\sunrisetechnologies_final_v01\sunrisetechnologies_prototipo\sunrisetechnologies_prototipo\include\vuelo.h
+	"Fecha.h"
+	"Avion.h"
+	"Horario.h"
+	"Destino.h"
+
+1621961250 c:\users\sole\documents\soleado\facu\utn\labo ii\tpfinal\sunrisetechnologies_final_v01\sunrisetechnologies_prototipo\sunrisetechnologies_prototipo\include\horario.h
+
+1625669688 source:c:\users\sole\documents\soleado\facu\utn\labo ii\tpfinal\sunrisetechnologies_final_v01\sunrisetechnologies_prototipo\sunrisetechnologies_prototipo\menu.cpp
+	<iostream>
+	<cstring>
+	<clocale>
+	"Usuario.h"
+	"funciones.h"
+	"rlutil.h"
+	"Pasajero.h"
+
+1624576085 source:c:\users\sole\documents\soleado\facu\utn\labo ii\tpfinal\sunrisetechnologies_final_v01\sunrisetechnologies_prototipo\sunrisetechnologies_prototipo\src\asiento.cpp
+	<iostream>
+	<cstring>
+	"Asiento.h"
+
+1624576737 c:\users\sole\documents\soleado\facu\utn\labo ii\tpfinal\sunrisetechnologies_final_v01\sunrisetechnologies_prototipo\sunrisetechnologies_prototipo\include\asiento.h
+	"Vuelo.h"
+
+1625161082 source:c:\users\sole\documents\soleado\facu\utn\labo ii\tpfinal\sunrisetechnologies_final_v01\sunrisetechnologies_prototipo\sunrisetechnologies_prototipo\src\auxiliaravion.cpp
+	<iostream>
+	<cstring>
+	"AuxiliarAvion.h"
+
+1625161645 source:c:\users\sole\documents\soleado\facu\utn\labo ii\tpfinal\sunrisetechnologies_final_v01\sunrisetechnologies_prototipo\sunrisetechnologies_prototipo\src\auxiliarpasajero.cpp
+	<iostream>
+	<clocale>
+	"AuxiliarPasajero.h"
+	<cstring>
+	"rlutil.h"
+
+1625098544 c:\users\sole\documents\soleado\facu\utn\labo ii\tpfinal\sunrisetechnologies_final_v01\sunrisetechnologies_prototipo\sunrisetechnologies_prototipo\include\auxiliarpasajero.h
+
+1571584339 c:\users\sole\documents\soleado\facu\utn\labo ii\tpfinal\sunrisetechnologies_final_v01\sunrisetechnologies_prototipo\sunrisetechnologies_prototipo\include\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1624580446 source:c:\users\sole\documents\soleado\facu\utn\labo ii\tpfinal\sunrisetechnologies_final_v01\sunrisetechnologies_prototipo\sunrisetechnologies_prototipo\src\avion.cpp
+	"Avion.h"
+	<iostream>
+	<clocale>
+	<cstring>
+
+1625158000 source:c:\users\sole\documents\soleado\facu\utn\labo ii\tpfinal\sunrisetechnologies_final_v01\sunrisetechnologies_prototipo\sunrisetechnologies_prototipo\src\destino.cpp
+	<iostream>
+	<clocale>
+	"Destino.h"
+	<cstring>
+	"Persona.h"
+
+1625326939 source:c:\users\sole\documents\soleado\facu\utn\labo ii\tpfinal\sunrisetechnologies_final_v01\sunrisetechnologies_prototipo\sunrisetechnologies_prototipo\src\fecha.cpp
+	<iostream>
+	<clocale>
+	"Fecha.h"
+
+1625326746 source:c:\users\sole\documents\soleado\facu\utn\labo ii\tpfinal\sunrisetechnologies_final_v01\sunrisetechnologies_prototipo\sunrisetechnologies_prototipo\src\horario.cpp
+	<iostream>
+	<clocale>
+	"Horario.h"
+
+1625110548 source:c:\users\sole\documents\soleado\facu\utn\labo ii\tpfinal\sunrisetechnologies_final_v01\sunrisetechnologies_prototipo\sunrisetechnologies_prototipo\src\pasajero.cpp
+	<iostream>
+	<clocale>
+	"Pasajero.h"
+	"Persona.h"
+	"Fecha.h"
+	"rlutil.h"
+
+1625161082 source:c:\users\sole\documents\soleado\facu\utn\labo ii\tpfinal\sunrisetechnologies_final_v01\sunrisetechnologies_prototipo\sunrisetechnologies_prototipo\src\persona.cpp
+	<iostream>
+	<clocale>
+	"Persona.h"
+	"Fecha.h"
+	<cstring>
+	"rlutil.h"
+
+1625110548 source:c:\users\sole\documents\soleado\facu\utn\labo ii\tpfinal\sunrisetechnologies_final_v01\sunrisetechnologies_prototipo\sunrisetechnologies_prototipo\src\reserva.cpp
+	<iostream>
+	<clocale>
+	<cstring>
+	"Reserva.h"
+	"Fecha.h"
+
+1625101673 c:\users\sole\documents\soleado\facu\utn\labo ii\tpfinal\sunrisetechnologies_final_v01\sunrisetechnologies_prototipo\sunrisetechnologies_prototipo\include\reserva.h
+	"Fecha.h"
+
+1622924731 source:c:\users\sole\documents\soleado\facu\utn\labo ii\tpfinal\sunrisetechnologies_final_v01\sunrisetechnologies_prototipo\sunrisetechnologies_prototipo\src\usuario.cpp
+	<iostream>
+	<cstring>
+	<clocale>
+	"Usuario.h"
+	"rlutil.h"
+
+1625181122 source:c:\users\sole\documents\soleado\facu\utn\labo ii\tpfinal\sunrisetechnologies_final_v01\sunrisetechnologies_prototipo\sunrisetechnologies_prototipo\src\vuelo.cpp
+	<iostream>
+	<cstring>
+	<clocale>
+	"Vuelo.h"
+	"Avion.h"
+
+1625670644 source:c:\users\sole\documents\soleado\facu\utn\labo ii\tpfinal\sunrisetechnologies_final_v01\sunrisetechnologies_prototipo\sunrisetechnologies_prototipo\funciones.cpp
+	"rlutil.h"
+	<iostream>
+	<clocale>
+	"Usuario.h"
+	"Destino.h"
+	"Vuelo.h"
+	"Reserva.h"
+	"Pasajero.h"
+	"AuxiliarPasajero.h"
+	<cstring>
+	<ctime>
+	"AuxiliarAvion.h"
+	"Asiento.h"
+	<stdlib.h>
+	<conio.h>
+
+1625784318 source:c:\users\zerocool\desktop\sunrisetechnologies_prototipo\funciones.cpp
+	"rlutil.h"
+	<iostream>
+	<clocale>
+	"Usuario.h"
+	"Destino.h"
+	"Vuelo.h"
+	"Reserva.h"
+	"Pasajero.h"
+	"AuxiliarPasajero.h"
+	<cstring>
+	<ctime>
+	"AuxiliarAvion.h"
+	"Asiento.h"
+	<stdlib.h>
+	<conio.h>
+
+1621907945 c:\users\zerocool\desktop\sunrisetechnologies_prototipo\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1622836110 c:\users\zerocool\desktop\sunrisetechnologies_prototipo\include\usuario.h
+	"Persona.h"
+
+1625099870 c:\users\zerocool\desktop\sunrisetechnologies_prototipo\include\persona.h
+
+1624052170 c:\users\zerocool\desktop\sunrisetechnologies_prototipo\include\destino.h
+
+1625181122 c:\users\zerocool\desktop\sunrisetechnologies_prototipo\include\vuelo.h
+	"Fecha.h"
+	"Avion.h"
+	"Horario.h"
+	"Destino.h"
+
+1622836110 c:\users\zerocool\desktop\sunrisetechnologies_prototipo\include\fecha.h
+
+1624580446 c:\users\zerocool\desktop\sunrisetechnologies_prototipo\include\avion.h
+
+1621961250 c:\users\zerocool\desktop\sunrisetechnologies_prototipo\include\horario.h
+
+1625101673 c:\users\zerocool\desktop\sunrisetechnologies_prototipo\include\reserva.h
+	"Fecha.h"
+
+1623971688 c:\users\zerocool\desktop\sunrisetechnologies_prototipo\include\pasajero.h
+	"Persona.h"
+	"Fecha.h"
+
+1625098544 c:\users\zerocool\desktop\sunrisetechnologies_prototipo\include\auxiliarpasajero.h
+
+1625098544 c:\users\zerocool\desktop\sunrisetechnologies_prototipo\include\auxiliaravion.h
+
+1624576737 c:\users\zerocool\desktop\sunrisetechnologies_prototipo\include\asiento.h
+	"Vuelo.h"
+
+1625174055 source:c:\users\zerocool\desktop\sunrisetechnologies_prototipo\main.cpp
+	<iostream>
+	<clocale>
+	"Usuario.h"
+	"funciones.h"
+	"menu.h"
+	"rlutil.h"
+	"Destino.h"
+	"AuxiliarAvion.h"
+	"Avion.h"
+	"Vuelo.h"
+
+1625669372 c:\users\zerocool\desktop\sunrisetechnologies_prototipo\funciones.h
+	"Pasajero.h"
+	"Destino.h"
+
+1624724851 c:\users\zerocool\desktop\sunrisetechnologies_prototipo\menu.h
+
+1625669688 source:c:\users\zerocool\desktop\sunrisetechnologies_prototipo\menu.cpp
+	<iostream>
+	<cstring>
+	<clocale>
+	"Usuario.h"
+	"funciones.h"
+	"rlutil.h"
+	"Pasajero.h"
+
+1624576085 source:c:\users\zerocool\desktop\sunrisetechnologies_prototipo\src\asiento.cpp
+	<iostream>
+	<cstring>
+	"Asiento.h"
+
+1625161082 source:c:\users\zerocool\desktop\sunrisetechnologies_prototipo\src\auxiliaravion.cpp
+	<iostream>
+	<cstring>
+	"AuxiliarAvion.h"
+
+1625161645 source:c:\users\zerocool\desktop\sunrisetechnologies_prototipo\src\auxiliarpasajero.cpp
+	<iostream>
+	<clocale>
+	"AuxiliarPasajero.h"
+	<cstring>
+	"rlutil.h"
+
+1571584339 c:\users\zerocool\desktop\sunrisetechnologies_prototipo\include\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1624580446 source:c:\users\zerocool\desktop\sunrisetechnologies_prototipo\src\avion.cpp
+	"Avion.h"
+	<iostream>
+	<clocale>
+	<cstring>
+
+1625158000 source:c:\users\zerocool\desktop\sunrisetechnologies_prototipo\src\destino.cpp
+	<iostream>
+	<clocale>
+	"Destino.h"
+	<cstring>
+	"Persona.h"
+
+1625326939 source:c:\users\zerocool\desktop\sunrisetechnologies_prototipo\src\fecha.cpp
+	<iostream>
+	<clocale>
+	"Fecha.h"
+
+1625326746 source:c:\users\zerocool\desktop\sunrisetechnologies_prototipo\src\horario.cpp
+	<iostream>
+	<clocale>
+	"Horario.h"
+
+1625110548 source:c:\users\zerocool\desktop\sunrisetechnologies_prototipo\src\pasajero.cpp
+	<iostream>
+	<clocale>
+	"Pasajero.h"
+	"Persona.h"
+	"Fecha.h"
+	"rlutil.h"
+
+1625161082 source:c:\users\zerocool\desktop\sunrisetechnologies_prototipo\src\persona.cpp
+	<iostream>
+	<clocale>
+	"Persona.h"
+	"Fecha.h"
+	<cstring>
+	"rlutil.h"
+
+1625110548 source:c:\users\zerocool\desktop\sunrisetechnologies_prototipo\src\reserva.cpp
+	<iostream>
+	<clocale>
+	<cstring>
+	"Reserva.h"
+	"Fecha.h"
+
+1622924731 source:c:\users\zerocool\desktop\sunrisetechnologies_prototipo\src\usuario.cpp
+	<iostream>
+	<cstring>
+	<clocale>
+	"Usuario.h"
+	"rlutil.h"
+
+1625181122 source:c:\users\zerocool\desktop\sunrisetechnologies_prototipo\src\vuelo.cpp
+	<iostream>
+	<cstring>
+	<clocale>
+	"Vuelo.h"
+	"Avion.h"
+
+1638045595 source:c:\users\zerocool\desktop\lab2\sunrisetechnologies_prototipo\funciones.cpp
+	"rlutil.h"
+	<iostream>
+	<clocale>
+	"Usuario.h"
+	"Destino.h"
+	"Vuelo.h"
+	"Reserva.h"
+	"Pasajero.h"
+	"AuxiliarPasajero.h"
+	<cstring>
+	<ctime>
+	"AuxiliarAvion.h"
+	"Asiento.h"
+	<stdlib.h>
+	<conio.h>
+	"Despacho.h"
+	"Cliente.h"
+	"Paquete.h"
+
+1621907945 c:\users\zerocool\desktop\lab2\sunrisetechnologies_prototipo\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1622836110 c:\users\zerocool\desktop\lab2\sunrisetechnologies_prototipo\include\usuario.h
+	"Persona.h"
+
+1636576161 c:\users\zerocool\desktop\lab2\sunrisetechnologies_prototipo\include\persona.h
+
+1624052170 c:\users\zerocool\desktop\lab2\sunrisetechnologies_prototipo\include\destino.h
+
+1625181122 c:\users\zerocool\desktop\lab2\sunrisetechnologies_prototipo\include\vuelo.h
+	"Fecha.h"
+	"Avion.h"
+	"Horario.h"
+	"Destino.h"
+
+1622836110 c:\users\zerocool\desktop\lab2\sunrisetechnologies_prototipo\include\fecha.h
+
+1624580446 c:\users\zerocool\desktop\lab2\sunrisetechnologies_prototipo\include\avion.h
+
+1621961250 c:\users\zerocool\desktop\lab2\sunrisetechnologies_prototipo\include\horario.h
+
+1625101673 c:\users\zerocool\desktop\lab2\sunrisetechnologies_prototipo\include\reserva.h
+	"Fecha.h"
+
+1623971688 c:\users\zerocool\desktop\lab2\sunrisetechnologies_prototipo\include\pasajero.h
+	"Persona.h"
+	"Fecha.h"
+
+1625098544 c:\users\zerocool\desktop\lab2\sunrisetechnologies_prototipo\include\auxiliarpasajero.h
+
+1625098544 c:\users\zerocool\desktop\lab2\sunrisetechnologies_prototipo\include\auxiliaravion.h
+
+1624576737 c:\users\zerocool\desktop\lab2\sunrisetechnologies_prototipo\include\asiento.h
+	"Vuelo.h"
+
+1638044737 source:c:\users\zerocool\desktop\lab2\sunrisetechnologies_prototipo\menu.cpp
+	<iostream>
+	<cstring>
+	<clocale>
+	"Usuario.h"
+	"funciones.h"
+	"rlutil.h"
+	"Pasajero.h"
+
+1638041795 c:\users\zerocool\desktop\lab2\sunrisetechnologies_prototipo\funciones.h
+	"Pasajero.h"
+	"Destino.h"
+
+1624576085 source:c:\users\zerocool\desktop\lab2\sunrisetechnologies_prototipo\src\asiento.cpp
+	<iostream>
+	<cstring>
+	"Asiento.h"
+
+1625161082 source:c:\users\zerocool\desktop\lab2\sunrisetechnologies_prototipo\src\auxiliaravion.cpp
+	<iostream>
+	<cstring>
+	"AuxiliarAvion.h"
+
+1625161645 source:c:\users\zerocool\desktop\lab2\sunrisetechnologies_prototipo\src\auxiliarpasajero.cpp
+	<iostream>
+	<clocale>
+	"AuxiliarPasajero.h"
+	<cstring>
+	"rlutil.h"
+
+1571584339 c:\users\zerocool\desktop\lab2\sunrisetechnologies_prototipo\include\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1624580446 source:c:\users\zerocool\desktop\lab2\sunrisetechnologies_prototipo\src\avion.cpp
+	"Avion.h"
+	<iostream>
+	<clocale>
+	<cstring>
+
+1625158000 source:c:\users\zerocool\desktop\lab2\sunrisetechnologies_prototipo\src\destino.cpp
+	<iostream>
+	<clocale>
+	"Destino.h"
+	<cstring>
+	"Persona.h"
+
+1625326939 source:c:\users\zerocool\desktop\lab2\sunrisetechnologies_prototipo\src\fecha.cpp
+	<iostream>
+	<clocale>
+	"Fecha.h"
+
+1625326746 source:c:\users\zerocool\desktop\lab2\sunrisetechnologies_prototipo\src\horario.cpp
+	<iostream>
+	<clocale>
+	"Horario.h"
+
+1625110548 source:c:\users\zerocool\desktop\lab2\sunrisetechnologies_prototipo\src\pasajero.cpp
+	<iostream>
+	<clocale>
+	"Pasajero.h"
+	"Persona.h"
+	"Fecha.h"
+	"rlutil.h"
+
+1638039520 source:c:\users\zerocool\desktop\lab2\sunrisetechnologies_prototipo\src\persona.cpp
+	<iostream>
+	<clocale>
+	"Persona.h"
+	"Fecha.h"
+	<cstring>
+	"rlutil.h"
+
+1625110548 source:c:\users\zerocool\desktop\lab2\sunrisetechnologies_prototipo\src\reserva.cpp
+	<iostream>
+	<clocale>
+	<cstring>
+	"Reserva.h"
+	"Fecha.h"
+
+1638038351 source:c:\users\zerocool\desktop\lab2\sunrisetechnologies_prototipo\src\usuario.cpp
+	<iostream>
+	<cstring>
+	<clocale>
+	"Usuario.h"
+	"rlutil.h"
+
+1625181122 source:c:\users\zerocool\desktop\lab2\sunrisetechnologies_prototipo\src\vuelo.cpp
+	<iostream>
+	<cstring>
+	<clocale>
+	"Vuelo.h"
+	"Avion.h"
+
+1638045121 source:c:\users\zerocool\desktop\lab2\sunrisetechnologies_prototipo\main.cpp
+	<iostream>
+	<clocale>
+	"Usuario.h"
+	"funciones.h"
+	"menu.h"
+	"rlutil.h"
+	"Destino.h"
+	"AuxiliarAvion.h"
+	"Avion.h"
+	"Vuelo.h"
+	"Paquete.h"
+
+1638037569 c:\users\zerocool\desktop\lab2\sunrisetechnologies_prototipo\menu.h
+
+1638039718 source:c:\users\zerocool\desktop\lab2\sunrisetechnologies_prototipo\src\cliente.cpp
+	<iostream>
+	<cstring>
+	"Cliente.h"
+	"Persona.h"
+
+1636666323 c:\users\zerocool\desktop\lab2\sunrisetechnologies_prototipo\include\cliente.h
+	"Persona.h"
+
+1638045069 source:c:\users\zerocool\desktop\lab2\sunrisetechnologies_prototipo\src\paquete.cpp
+	<iostream>
+	<cstring>
+	"Paquete.h"
+
+1636670786 c:\users\zerocool\desktop\lab2\sunrisetechnologies_prototipo\include\paquete.h
+
+1636670496 source:c:\users\zerocool\desktop\lab2\sunrisetechnologies_prototipo\src\vueloparaencomienda.cpp
+	<iostream>
+	<cstring>
+	"VueloParaEncomienda.h"
+
+1636670496 c:\users\zerocool\desktop\lab2\sunrisetechnologies_prototipo\include\vueloparaencomienda.h
+	"Fecha.h"
+
+1636672265 source:c:\users\zerocool\desktop\lab2\sunrisetechnologies_prototipo\src\despacho.cpp
+	<iostream>
+	<cstring>
+	"Despacho.h"
+
+1636671962 c:\users\zerocool\desktop\lab2\sunrisetechnologies_prototipo\include\despacho.h
+	"Cliente.h"
+	"Paquete.h"
+	"VueloParaEncomienda.h"
+
+1645742151 source:c:\users\acost\desktop\sunrisetechnologies_prototipo\funciones.cpp
+	"rlutil.h"
+	<iostream>
+	<clocale>
+	"Usuario.h"
+	"Destino.h"
+	"Vuelo.h"
+	"Reserva.h"
+	"Pasajero.h"
+	"AuxiliarPasajero.h"
+	<cstring>
+	<ctime>
+	"AuxiliarAvion.h"
+	"Asiento.h"
+	<stdlib.h>
+	<conio.h>
+	"Despacho.h"
+	"Cliente.h"
+	"Paquete.h"
+	"DirEntrega.h"
+	"Persona.h"
+
+1621907945 c:\users\acost\desktop\sunrisetechnologies_prototipo\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1622836110 c:\users\acost\desktop\sunrisetechnologies_prototipo\include\usuario.h
+	"Persona.h"
+
+1636576161 c:\users\acost\desktop\sunrisetechnologies_prototipo\include\persona.h
+
+1624052170 c:\users\acost\desktop\sunrisetechnologies_prototipo\include\destino.h
+
+1625181122 c:\users\acost\desktop\sunrisetechnologies_prototipo\include\vuelo.h
+	"Fecha.h"
+	"Avion.h"
+	"Horario.h"
+	"Destino.h"
+
+1622836110 c:\users\acost\desktop\sunrisetechnologies_prototipo\include\fecha.h
+
+1624580446 c:\users\acost\desktop\sunrisetechnologies_prototipo\include\avion.h
+
+1621961250 c:\users\acost\desktop\sunrisetechnologies_prototipo\include\horario.h
+
+1625101673 c:\users\acost\desktop\sunrisetechnologies_prototipo\include\reserva.h
+	"Fecha.h"
+
+1623971688 c:\users\acost\desktop\sunrisetechnologies_prototipo\include\pasajero.h
+	"Persona.h"
+	"Fecha.h"
+
+1625098544 c:\users\acost\desktop\sunrisetechnologies_prototipo\include\auxiliarpasajero.h
+
+1625098544 c:\users\acost\desktop\sunrisetechnologies_prototipo\include\auxiliaravion.h
+
+1624576737 c:\users\acost\desktop\sunrisetechnologies_prototipo\include\asiento.h
+	"Vuelo.h"
+
+1645740384 c:\users\acost\desktop\sunrisetechnologies_prototipo\include\despacho.h
+	"Cliente.h"
+	"Paquete.h"
+	"VueloParaEncomienda.h"
+
+1645667391 c:\users\acost\desktop\sunrisetechnologies_prototipo\include\cliente.h
+	"Persona.h"
+
+1645662740 c:\users\acost\desktop\sunrisetechnologies_prototipo\include\paquete.h
+
+1645663816 c:\users\acost\desktop\sunrisetechnologies_prototipo\include\vueloparaencomienda.h
+	"Fecha.h"
+
+1645741834 source:c:\users\acost\desktop\sunrisetechnologies_prototipo\main.cpp
+	<iostream>
+	<clocale>
+	"Usuario.h"
+	"funciones.h"
+	"menu.h"
+	"rlutil.h"
+	"Destino.h"
+	"AuxiliarAvion.h"
+	"Avion.h"
+	"Vuelo.h"
+	"Paquete.h"
+	"Destino.h"
+	"Despacho.h"
+	"Paquete.h"
+	"DirEntrega.h"
+
+1645740383 c:\users\acost\desktop\sunrisetechnologies_prototipo\funciones.h
+	"Pasajero.h"
+	"Destino.h"
+
+1638037569 c:\users\acost\desktop\sunrisetechnologies_prototipo\menu.h
+
+1645740383 source:c:\users\acost\desktop\sunrisetechnologies_prototipo\menu.cpp
+	<iostream>
+	<cstring>
+	<clocale>
+	"Usuario.h"
+	"funciones.h"
+	"rlutil.h"
+	"Pasajero.h"
+
+1624576085 source:c:\users\acost\desktop\sunrisetechnologies_prototipo\src\asiento.cpp
+	<iostream>
+	<cstring>
+	"Asiento.h"
+
+1625161082 source:c:\users\acost\desktop\sunrisetechnologies_prototipo\src\auxiliaravion.cpp
+	<iostream>
+	<cstring>
+	"AuxiliarAvion.h"
+
+1625161645 source:c:\users\acost\desktop\sunrisetechnologies_prototipo\src\auxiliarpasajero.cpp
+	<iostream>
+	<clocale>
+	"AuxiliarPasajero.h"
+	<cstring>
+	"rlutil.h"
+
+1571584339 c:\users\acost\desktop\sunrisetechnologies_prototipo\include\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1624580446 source:c:\users\acost\desktop\sunrisetechnologies_prototipo\src\avion.cpp
+	"Avion.h"
+	<iostream>
+	<clocale>
+	<cstring>
+
+1645667374 source:c:\users\acost\desktop\sunrisetechnologies_prototipo\src\cliente.cpp
+	<iostream>
+	<cstring>
+	"Cliente.h"
+	"Persona.h"
+
+1645740383 source:c:\users\acost\desktop\sunrisetechnologies_prototipo\src\despacho.cpp
+	<iostream>
+	<cstring>
+	"Despacho.h"
+
+1625158000 source:c:\users\acost\desktop\sunrisetechnologies_prototipo\src\destino.cpp
+	<iostream>
+	<clocale>
+	"Destino.h"
+	<cstring>
+	"Persona.h"
+
+1625326939 source:c:\users\acost\desktop\sunrisetechnologies_prototipo\src\fecha.cpp
+	<iostream>
+	<clocale>
+	"Fecha.h"
+
+1625326746 source:c:\users\acost\desktop\sunrisetechnologies_prototipo\src\horario.cpp
+	<iostream>
+	<clocale>
+	"Horario.h"
+
+1645669972 source:c:\users\acost\desktop\sunrisetechnologies_prototipo\src\paquete.cpp
+	<iostream>
+	<cstring>
+	"Paquete.h"
+
+1625110548 source:c:\users\acost\desktop\sunrisetechnologies_prototipo\src\pasajero.cpp
+	<iostream>
+	<clocale>
+	"Pasajero.h"
+	"Persona.h"
+	"Fecha.h"
+	"rlutil.h"
+
+1645652535 source:c:\users\acost\desktop\sunrisetechnologies_prototipo\src\persona.cpp
+	<iostream>
+	<clocale>
+	"Persona.h"
+	"Fecha.h"
+	<cstring>
+	"rlutil.h"
+
+1625110548 source:c:\users\acost\desktop\sunrisetechnologies_prototipo\src\reserva.cpp
+	<iostream>
+	<clocale>
+	<cstring>
+	"Reserva.h"
+	"Fecha.h"
+
+1638038351 source:c:\users\acost\desktop\sunrisetechnologies_prototipo\src\usuario.cpp
+	<iostream>
+	<cstring>
+	<clocale>
+	"Usuario.h"
+	"rlutil.h"
+
+1625181122 source:c:\users\acost\desktop\sunrisetechnologies_prototipo\src\vuelo.cpp
+	<iostream>
+	<cstring>
+	<clocale>
+	"Vuelo.h"
+	"Avion.h"
+
+1645665973 source:c:\users\acost\desktop\sunrisetechnologies_prototipo\src\vueloparaencomienda.cpp
+	<iostream>
+	<cstring>
+	"VueloParaEncomienda.h"
+
+1645734090 source:c:\users\acost\desktop\sunrisetechnologies_prototipo\src\direntrega.cpp
+	"DirEntrega.h"
+	<iostream>
+	<cstring>
+	"Cliente.h"
+	"Persona.h"
+
+1645734023 c:\users\acost\desktop\sunrisetechnologies_prototipo\include\direntrega.h
+
